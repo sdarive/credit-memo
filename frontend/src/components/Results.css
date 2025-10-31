@@ -1,0 +1,181 @@
+.results-container {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.results-header {
+  margin-bottom: 30px;
+}
+
+.results-header h2 {
+  margin: 0 0 15px 0;
+  color: #2c3e50;
+  font-size: 24px;
+}
+
+.borrower-info {
+  display: flex;
+  gap: 30px;
+  background: #ecf0f1;
+  padding: 15px 20px;
+  border-radius: 8px;
+}
+
+.info-item {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.info-item .label {
+  font-weight: 600;
+  color: #7f8c8d;
+  font-size: 14px;
+}
+
+.info-item .value {
+  color: #2c3e50;
+  font-size: 14px;
+}
+
+.results-grid {
+  display: grid;
+  gap: 30px;
+}
+
+.results-section {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 25px;
+}
+
+.results-section h3 {
+  margin: 0 0 20px 0;
+  color: #34495e;
+  font-size: 18px;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 10px;
+}
+
+/* Financial Data Grid */
+.data-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 15px;
+}
+
+.data-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 15px;
+  background: #f8f9fa;
+  border-radius: 6px;
+  border-left: 3px solid #3498db;
+}
+
+.data-label {
+  font-weight: 500;
+  color: #7f8c8d;
+  font-size: 14px;
+}
+
+.data-value {
+  font-weight: 600;
+  color: #2c3e50;
+  font-size: 14px;
+}
+
+/* Ratios Grid */
+.ratios-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 15px;
+}
+
+.ratio-card {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #e0e0e0;
+  transition: transform 0.2s ease;
+}
+
+.ratio-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.ratio-name {
+  font-size: 12px;
+  font-weight: 600;
+  color: #7f8c8d;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+
+.ratio-value {
+  font-size: 28px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+}
+
+.ratio-interpretation {
+  font-size: 11px;
+  color: #95a5a6;
+  margin-top: 8px;
+  line-height: 1.4;
+}
+
+/* Ratio Status Colors */
+.ratio-card.good {
+  border-color: #27ae60;
+  background: #d5f4e6;
+}
+
+.ratio-card.good .ratio-value {
+  color: #27ae60;
+}
+
+.ratio-card.fair {
+  border-color: #f39c12;
+  background: #fef5e7;
+}
+
+.ratio-card.fair .ratio-value {
+  color: #f39c12;
+}
+
+.ratio-card.poor {
+  border-color: #e74c3c;
+  background: #fadbd8;
+}
+
+.ratio-card.poor .ratio-value {
+  color: #e74c3c;
+}
+
+@media (max-width: 768px) {
+  .borrower-info {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .data-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .ratios-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .ratios-grid {
+    grid-template-columns: 1fr;
+  }
+}

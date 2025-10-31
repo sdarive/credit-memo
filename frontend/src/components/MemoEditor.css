@@ -1,0 +1,167 @@
+.memo-editor-container {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.memo-editor-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.memo-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 30px;
+  border-bottom: 2px solid #e0e0e0;
+  background: #f8f9fa;
+}
+
+.memo-header h2 {
+  margin: 0;
+  color: #2c3e50;
+  font-size: 22px;
+}
+
+.memo-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.memo-actions .btn {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn-edit {
+  background: #3498db;
+  color: white;
+}
+
+.btn-edit:hover {
+  background: #2980b9;
+}
+
+.btn-copy {
+  background: #95a5a6;
+  color: white;
+}
+
+.btn-copy:hover {
+  background: #7f8c8d;
+}
+
+.btn-download {
+  background: #27ae60;
+  color: white;
+}
+
+.btn-download:hover {
+  background: #229954;
+}
+
+.btn-save {
+  background: #27ae60;
+  color: white;
+}
+
+.btn-save:hover {
+  background: #229954;
+}
+
+.btn-cancel {
+  background: #e74c3c;
+  color: white;
+}
+
+.btn-cancel:hover {
+  background: #c0392b;
+}
+
+.memo-content {
+  padding: 30px;
+  min-height: 400px;
+}
+
+.memo-display {
+  font-family: 'Courier New', monospace;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #2c3e50;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  margin: 0;
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 4px;
+  border: 1px solid #e0e0e0;
+}
+
+.memo-textarea {
+  width: 100%;
+  min-height: 500px;
+  font-family: 'Courier New', monospace;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #2c3e50;
+  padding: 20px;
+  border: 2px solid #3498db;
+  border-radius: 4px;
+  resize: vertical;
+  box-sizing: border-box;
+}
+
+.memo-textarea:focus {
+  outline: none;
+  border-color: #2980b9;
+}
+
+.memo-footer {
+  padding: 15px 30px;
+  background: #f8f9fa;
+  border-top: 1px solid #e0e0e0;
+}
+
+.memo-disclaimer {
+  color: #7f8c8d;
+  font-size: 12px;
+  font-style: italic;
+  display: block;
+  line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+  .memo-header {
+    flex-direction: column;
+    gap: 15px;
+    align-items: flex-start;
+  }
+
+  .memo-actions {
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .memo-actions .btn {
+    flex: 1;
+    min-width: 80px;
+  }
+
+  .memo-content {
+    padding: 20px 15px;
+  }
+
+  .memo-display,
+  .memo-textarea {
+    font-size: 13px;
+    padding: 15px;
+  }
+}
