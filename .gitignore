@@ -2,6 +2,7 @@
 .env
 
 # Internal planning and testing documents
+CLAUDE.md
 why_ai.md
 HUGGINGFACE_DATASETS_GUIDE.md
 AGENT_ARCHITECTURE.md
