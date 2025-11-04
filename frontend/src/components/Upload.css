@@ -2,7 +2,7 @@
 
 .upload-wrapper {
   min-height: 100vh;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(180deg, #f9fafb 0%, #f5f5f5 100%);
   padding: 2rem;
   display: flex;
   align-items: center;
@@ -31,7 +31,7 @@
 }
 
 .upload-header {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: #1a1a1a;
   padding: 3rem 2rem;
   text-align: center;
   color: white;
@@ -49,6 +49,11 @@
   margin: 0;
   opacity: 0.95;
   font-weight: 400;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
 }
 
 .upload-form {
@@ -75,7 +80,7 @@
   display: inline-block;
   width: 4px;
   height: 20px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: #006747;
   border-radius: 2px;
   margin-right: 0.75rem;
 }
@@ -110,7 +115,7 @@
 
 .modern-input:focus {
   outline: none;
-  border-color: #667eea;
+  border-color: #006747;
   background: white;
   box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
 }
@@ -147,12 +152,12 @@
 }
 
 .dropzone:hover {
-  border-color: #667eea;
+  border-color: #006747;
   background: white;
 }
 
 .dropzone.drag-active {
-  border-color: #667eea;
+  border-color: #006747;
   background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);
   transform: scale(1.02);
 }
@@ -176,7 +181,7 @@
   width: 64px;
   height: 64px;
   margin: 0 auto 1rem;
-  color: #667eea;
+  color: #006747;
   stroke-width: 1.5;
 }
 
@@ -263,7 +268,7 @@
 .file-icon {
   width: 32px;
   height: 32px;
-  color: #667eea;
+  color: #006747;
   flex-shrink: 0;
 }
 
@@ -369,7 +374,7 @@
 }
 
 .btn-primary {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #006747 0%, #008055 100%);
   color: white;
   box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
 }
@@ -385,13 +390,13 @@
 
 .btn-secondary {
   background: white;
-  color: #667eea;
+  color: #006747;
   border: 2px solid #e5e7eb;
 }
 
 .btn-secondary:hover:not(:disabled) {
   background: #f9fafb;
-  border-color: #667eea;
+  border-color: #006747;
 }
 
 .btn:disabled {
@@ -524,7 +529,7 @@
 .progress-icon {
   width: 28px;
   height: 28px;
-  color: #667eea;
+  color: #006747;
   stroke-width: 2.5;
 }
 
@@ -560,7 +565,7 @@
 
 .progress-bar {
   height: 100%;
-  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(90deg, #006747 0%, #008055 100%);
   border-radius: 12px;
   transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1);
   position: relative;
@@ -634,8 +639,8 @@
 }
 
 .stage-item.active .stage-dot {
-  background: #667eea;
-  box-shadow: 0 0 0 2px #667eea, 0 0 0 4px rgba(102, 126, 234, 0.2);
+  background: #006747;
+  box-shadow: 0 0 0 2px #006747, 0 0 0 4px rgba(102, 126, 234, 0.2);
   animation: pulse 1.5s ease infinite;
 }
 
@@ -663,7 +668,7 @@
 }
 
 .stage-item.active .stage-label {
-  color: #667eea;
+  color: #006747;
   font-weight: 600;
 }
 

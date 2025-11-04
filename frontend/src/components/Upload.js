@@ -1,5 +1,7 @@
 import React, { useState, useRef } from 'react';
 import './Upload.css';
+import LandingAILogo from './LandingAILogo';
+import AWSBedrockLogo from './AWSBedrockLogo';
 
 function Upload({ onUploadComplete, onLoadingChange }) {
   const [files, setFiles] = useState([]);
@@ -313,10 +315,13 @@ function Upload({ onUploadComplete, onLoadingChange }) {
     <div className="upload-wrapper">
       <div className="upload-container">
         <div className="upload-header">
-          <h1 className="upload-title">Credit Memo Generator</h1>
-          <p className="upload-subtitle">
-            AI-powered credit analysis using LandingAI ADE & AWS Bedrock
-          </p>
+          <h1 className="upload-title">Ernie</h1>
+          <div className="upload-subtitle">
+            <span>AI-powered credit analysis with </span>
+            <LandingAILogo height="28" />
+            <span> & </span>
+            <AWSBedrockLogo height="28" />
+          </div>
         </div>
 
         <form onSubmit={handleSubmit} className="upload-form">

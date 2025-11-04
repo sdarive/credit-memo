@@ -1,8 +1,10 @@
-# Credit Memo Generator
+# Ernie - AI Credit Assistant
 
 **AI-Powered Template-Adaptive Credit Memo Generation**
 
 Built for the LandingAI Financial AI Hackathon Championship 2025
+
+> Ernie is your intelligent credit analysis assistant for Midwest Regional Bank, automating credit memo generation with LandingAI and AWS Bedrock technology.
 
 ---
 
@@ -76,8 +78,16 @@ An intelligent financial agent that automates credit memo generation for bank lo
 **Analyst Experience:**
 - Interactive results dashboard with visual ratio indicators
 - Editable memo drafts (analysts review, not retype)
-- Downloadable credit memos
+- Downloadable credit memos (text and Word format)
 - Faster turnaround: analysts focus on analysis, not assembly
+
+**Professional Banking Interface:**
+- **"Ernie"** - Your AI Credit Assistant
+- Professional bank branding (Midwest Regional Bank)
+- Banking green color scheme with modern UI/UX
+- Credit memo letterhead with bank name, division, and FDIC tagline
+- Technology branding with LandingAI and AWS Bedrock logos
+- All generated documents include proper bank letterhead and branding
 
 ---
 

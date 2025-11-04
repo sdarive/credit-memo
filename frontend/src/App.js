@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
+import BankHeader from './components/BankHeader';
 import Upload from './components/Upload';
 import Results from './components/Results';
 import MemoEditor from './components/MemoEditor';
@@ -31,17 +32,7 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header">
-        <div className="header-content">
-          <h1>Credit Memo Generator</h1>
-          <p className="header-subtitle">
-            Template-Adaptive AI Credit Memos • LandingAI ADE & AWS Bedrock
-          </p>
-          <p className="header-tagline">
-            Eliminate manual copy-paste • Auto-extract data • Generate compliant memos
-          </p>
-        </div>
-      </header>
+      <BankHeader />
 
       <main className="App-main">
         {!analysisData && (
@@ -74,12 +65,19 @@ function App() {
       </main>
 
       <footer className="App-footer">
-        <p>
-          Built for LandingAI Financial AI Hackathon Championship 2025
-        </p>
-        <p className="tech-stack">
-          Tech Stack: LandingAI ADE API • AWS Bedrock • React • Flask
-        </p>
+        <div className="footer-content">
+          <div className="footer-section">
+            <p className="footer-disclaimer">
+              © 2025 Midwest Regional Bank. Ernie - Your Assistant for Credit Memos.
+            </p>
+            <p className="footer-note">
+              This AI-powered platform is designed to assist credit analysts. All credit decisions require human review and approval.
+            </p>
+          </div>
+          <div className="footer-tech">
+            <p className="tech-label">AI credit processing technology</p>
+          </div>
+        </div>
       </footer>
     </div>
   );
