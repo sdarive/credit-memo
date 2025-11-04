@@ -1,9 +1,11 @@
 import React, { useState } from 'react';
+import ReactMarkdown from 'react-markdown';
 import './MemoEditor.css';
 
-function MemoEditor({ memo, borrowerInfo }) {
+function MemoEditor({ memo, borrowerInfo, financialData, ratios }) {
   const [isEditing, setIsEditing] = useState(false);
   const [editedMemo, setEditedMemo] = useState(memo);
+  const [isGeneratingWord, setIsGeneratingWord] = useState(false);
 
   const handleEdit = () => {
     setIsEditing(true);
@@ -36,6 +38,48 @@ function MemoEditor({ memo, borrowerInfo }) {
     alert('Memo copied to clipboard!');
   };
 
+  const handleDownloadWord = async () => {
+    setIsGeneratingWord(true);
+
+    try {
+      const response = await fetch('http://localhost:5001/download-word', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          financial_data: financialData,
+          ratios: ratios,
+          memo: editedMemo,
+          borrower_info: borrowerInfo
+        })
+      });
+
+      if (!response.ok) {
+        throw new Error('Failed to generate Word document');
+      }
+
+      // Download file
+      const blob = await response.blob();
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      const borrowerName = borrowerInfo?.name || 'Borrower';
+      a.download = `Credit_Memo_${borrowerName.replace(/\s+/g, '_')}.docx`;
+      document.body.appendChild(a);
+      a.click();
+      window.URL.revokeObjectURL(url);
+      document.body.removeChild(a);
+
+      alert('Word document downloaded successfully!');
+    } catch (error) {
+      console.error('Error downloading Word document:', error);
+      alert('Failed to generate Word document. Please try again.');
+    } finally {
+      setIsGeneratingWord(false);
+    }
+  };
+
   if (!memo) {
     return null;
   }
@@ -55,7 +99,14 @@ function MemoEditor({ memo, borrowerInfo }) {
                   Copy
                 </button>
                 <button className="btn btn-download" onClick={handleDownload}>
-                  Download
+                  Download TXT
+                </button>
+                <button
+                  className="btn btn-download-word"
+                  onClick={handleDownloadWord}
+                  disabled={isGeneratingWord}
+                >
+                  {isGeneratingWord ? '📄 Generating...' : '📄 Download Word'}
                 </button>
               </>
             ) : (
@@ -80,7 +131,9 @@ function MemoEditor({ memo, borrowerInfo }) {
               autoFocus
             />
           ) : (
-            <pre className="memo-display">{editedMemo}</pre>
+            <div className="memo-display">
+              <ReactMarkdown>{editedMemo}</ReactMarkdown>
+            </div>
           )}
         </div>
 

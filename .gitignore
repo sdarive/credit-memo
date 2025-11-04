@@ -1,6 +1,33 @@
 # Environment variables
 .env
 
+# Internal planning and testing documents
+why_ai.md
+HUGGINGFACE_DATASETS_GUIDE.md
+AGENT_ARCHITECTURE.md
+DOCUMENTATION_UPDATE_SUMMARY.md
+END_TO_END_TESTING_GUIDE.md
+FEATURES.md
+HACKATHON_COMPLIANCE_CHECK.md
+MVP_READINESS_CHECKLIST.md
+PYTHON_LIBRARY_IMPLEMENTATION_GUIDE.md
+QUICK_START_TESTING.md
+RAG_IMPLEMENTATION_SUMMARY.md
+RAG_QUICK_START.md
+RAG_SETUP_GUIDE.md
+TESTING_PLAN.md
+WORD_TEMPLATE_IMPLEMENTATION.md
+test_backend.html
+backend/TESTING_README.md
+backend/check_*.py
+backend/test_*.py
+backend/quick_test.sh
+backend/run_benchmark.py
+backend/generate_synthetic_memos.py
+backend/generate_test_documents.py
+backend/evaluation_metrics.py
+backend/setup_rag_kb.sh
+
 # Python
 __pycache__/
 *.py[cod]
@@ -58,3 +85,29 @@ Thumbs.db
 
 # AWS
 .aws/
+
+# Logs and runtime files
+logs/
+*.log
+.pids/
+*.pid
+
+# Temporary test files
+/tmp/
+test_response.json
+
+# RAG Knowledge Base files (generated)
+backend/rag_kb/
+backend/credit_memos_kb/
+RAG knowledge base for credit memo automation.md
+
+# Sample datasets and test documents
+datasets/SBA_Loan_Applications_Realistic/
+datasets/SBA_Loan_Applications_Realistic.tar.gz
+datasets/SUMMARY.txt
+datasets/Sample-Enhanced-Memo.pdf
+datasets/*.md
+backend/test_credit_memo.docx
+
+# Input documents reference
+input documents required by a bank to write a credit memo for processing an SBA loan request.md

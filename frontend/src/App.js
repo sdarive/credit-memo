@@ -6,15 +6,23 @@ import MemoEditor from './components/MemoEditor';
 
 function App() {
   const [analysisData, setAnalysisData] = useState(null);
-  const [isLoading, setIsLoading] = useState(false);
 
   const handleUploadComplete = (data) => {
-    console.log('Analysis complete:', data);
-    setAnalysisData(data);
+    console.log('📋 App.js: handleUploadComplete called');
+    console.log('📋 App.js: Received data:', data);
+    console.log('📋 App.js: Data type:', typeof data);
+    console.log('📋 App.js: Data keys:', data ? Object.keys(data) : 'null');
+
+    try {
+      setAnalysisData(data);
+      console.log('✅ App.js: Analysis data set successfully');
+    } catch (err) {
+      console.error('❌ App.js: Error setting analysis data:', err);
+    }
   };
 
   const handleLoadingChange = (loading) => {
-    setIsLoading(loading);
+    // Loading state is now handled by Upload component
   };
 
   const handleReset = () => {
@@ -27,30 +35,23 @@ function App() {
         <div className="header-content">
           <h1>Credit Memo Generator</h1>
           <p className="header-subtitle">
-            Automated credit analysis powered by LandingAI ADE & AWS Bedrock
+            Template-Adaptive AI Credit Memos • LandingAI ADE & AWS Bedrock
+          </p>
+          <p className="header-tagline">
+            Eliminate manual copy-paste • Auto-extract data • Generate compliant memos
           </p>
         </div>
       </header>
 
       <main className="App-main">
-        {!analysisData && !isLoading && (
+        {!analysisData && (
           <Upload
             onUploadComplete={handleUploadComplete}
             onLoadingChange={handleLoadingChange}
           />
         )}
 
-        {isLoading && (
-          <div className="loading-screen">
-            <div className="loading-spinner"></div>
-            <h2>Analyzing Document...</h2>
-            <p>Extracting financial data with LandingAI ADE</p>
-            <p>Calculating credit ratios</p>
-            <p>Generating memo with AWS Bedrock</p>
-          </div>
-        )}
-
-        {analysisData && !isLoading && (
+        {analysisData && (
           <>
             <div className="action-bar">
               <button className="btn btn-reset" onClick={handleReset}>
@@ -64,6 +65,8 @@ function App() {
               <MemoEditor
                 memo={analysisData.memo}
                 borrowerInfo={analysisData.borrower_info}
+                financialData={analysisData.financial_data}
+                ratios={analysisData.ratios}
               />
             )}
           </>

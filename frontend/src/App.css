@@ -34,6 +34,14 @@
   color: #7f8c8d;
   font-size: 16px;
   font-weight: 400;
+  margin-bottom: 8px;
+}
+
+.header-tagline {
+  color: #95a5a6;
+  font-size: 13px;
+  font-weight: 400;
+  font-style: italic;
 }
 
 .App-main {

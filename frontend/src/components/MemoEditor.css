@@ -68,6 +68,21 @@
   background: #229954;
 }
 
+.btn-download-word {
+  background: #0066cc;
+  color: white;
+}
+
+.btn-download-word:hover:not(:disabled) {
+  background: #0052a3;
+}
+
+.btn-download-word:disabled {
+  background: #95a5a6;
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
 .btn-save {
   background: #27ae60;
   color: white;
@@ -92,17 +107,151 @@
 }
 
 .memo-display {
-  font-family: 'Courier New', monospace;
-  font-size: 14px;
-  line-height: 1.6;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  font-size: 15px;
+  line-height: 1.8;
   color: #2c3e50;
-  white-space: pre-wrap;
-  word-wrap: break-word;
   margin: 0;
-  background: #f8f9fa;
-  padding: 20px;
+  background: white;
+  padding: 30px;
   border-radius: 4px;
   border: 1px solid #e0e0e0;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+/* Markdown Headings */
+.memo-display h1 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #1a202c;
+  margin-top: 0;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #667eea;
+}
+
+.memo-display h2 {
+  font-size: 22px;
+  font-weight: 600;
+  color: #2d3748;
+  margin-top: 32px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.memo-display h3 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #2d3748;
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+.memo-display h4 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #4a5568;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* Paragraphs */
+.memo-display p {
+  margin-bottom: 16px;
+  line-height: 1.8;
+}
+
+/* Lists */
+.memo-display ul,
+.memo-display ol {
+  margin-bottom: 16px;
+  padding-left: 30px;
+}
+
+.memo-display li {
+  margin-bottom: 8px;
+  line-height: 1.7;
+}
+
+/* Strong/Bold */
+.memo-display strong {
+  font-weight: 600;
+  color: #1a202c;
+}
+
+/* Emphasis/Italic */
+.memo-display em {
+  font-style: italic;
+  color: #4a5568;
+}
+
+/* Code blocks */
+.memo-display code {
+  background: #f7fafc;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-family: 'Courier New', monospace;
+  font-size: 14px;
+  color: #e53e3e;
+}
+
+.memo-display pre {
+  background: #f7fafc;
+  padding: 16px;
+  border-radius: 6px;
+  border: 1px solid #e2e8f0;
+  overflow-x: auto;
+  margin-bottom: 16px;
+}
+
+.memo-display pre code {
+  background: none;
+  padding: 0;
+  color: #2d3748;
+}
+
+/* Tables */
+.memo-display table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.memo-display th,
+.memo-display td {
+  border: 1px solid #e2e8f0;
+  padding: 10px 12px;
+  text-align: left;
+}
+
+.memo-display th {
+  background: #f7fafc;
+  font-weight: 600;
+  color: #2d3748;
+}
+
+.memo-display tr:nth-child(even) {
+  background: #f9fafb;
+}
+
+/* Blockquotes */
+.memo-display blockquote {
+  border-left: 4px solid #667eea;
+  padding-left: 20px;
+  margin-left: 0;
+  margin-bottom: 16px;
+  color: #4a5568;
+  font-style: italic;
+}
+
+/* Horizontal rules */
+.memo-display hr {
+  border: none;
+  border-top: 2px solid #e2e8f0;
+  margin: 32px 0;
 }
 
 .memo-textarea {

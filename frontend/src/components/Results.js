@@ -2,9 +2,18 @@ import React from 'react';
 import './Results.css';
 
 function Results({ data }) {
+  console.log('🎯 Results.js: Component rendered');
+  console.log('🎯 Results.js: Data received:', data);
+
   if (!data) {
+    console.log('⚠️ Results.js: No data provided, returning null');
     return null;
   }
+
+  console.log('🎯 Results.js: Extracting data fields...');
+  console.log('🎯 Results.js: borrower_info:', data.borrower_info);
+  console.log('🎯 Results.js: financial_data:', data.financial_data);
+  console.log('🎯 Results.js: ratios:', data.ratios);
 
   const { borrower_info, financial_data, ratios } = data;
 
@@ -43,6 +52,25 @@ function Results({ data }) {
     <div className="results-container">
       <div className="results-header">
         <h2>Analysis Results</h2>
+
+        {/* Multiple file upload notification */}
+        {data.multiFileUpload && (
+          <div className="multi-file-notice">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" style={{width: '20px', height: '20px', marginRight: '8px'}}>
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            <div>
+              <strong>Multiple Documents Processed:</strong> {data.totalProcessed} successful
+              {data.totalFailed > 0 && `, ${data.totalFailed} failed`}
+              {data.processedFiles && data.processedFiles.length > 0 && (
+                <div style={{fontSize: '0.85em', marginTop: '4px', opacity: 0.9}}>
+                  Showing results from: {data.processedFiles[0]}
+                </div>
+              )}
+            </div>
+          </div>
+        )}
+
         {borrower_info && (
           <div className="borrower-info">
             <div className="info-item">
