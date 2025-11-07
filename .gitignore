@@ -114,6 +114,7 @@ test_response.json
 backend/rag_kb/
 backend/credit_memos_kb/
 RAG knowledge base for credit memo automation.md
+rag_kb_aws.pdf
 
 # Sample datasets and test documents
 datasets/SBA_Loan_Applications_Realistic/
