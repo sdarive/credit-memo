@@ -126,7 +126,7 @@ function Upload({ onUploadComplete, onLoadingChange }) {
 
       // Increase timeout for long-running analysis
       const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 180000); // 3 minute timeout
+      const timeoutId = setTimeout(() => controller.abort(), 300000); // 3 minute timeout
 
       const response = await fetch(`http://localhost:5001/${endpoint}`, {
         method: 'POST',
@@ -239,7 +239,7 @@ function Upload({ onUploadComplete, onLoadingChange }) {
     try {
       console.log('📡 Sending request to backend...');
       const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 180000); // 3 minute timeout for LLM generation
+      const timeoutId = setTimeout(() => controller.abort(), 300000); // 3 minute timeout for LLM generation
 
       const response = await fetch('http://localhost:5001/test-extraction', {
         method: 'POST',

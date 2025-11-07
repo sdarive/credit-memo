@@ -210,24 +210,32 @@ def upload_multiple_documents():
     Returns:
         JSON array with results for each document
     """
+    print("=" * 60)
+    print("📥 RECEIVED MULTI-FILE UPLOAD REQUEST")
+    print("=" * 60)
     try:
         # Check if files are in request
         if 'documents' not in request.files:
+            print("❌ No 'documents' field in request")
             return jsonify({'error': 'No documents provided'}), 400
 
         files = request.files.getlist('documents')
+        print(f"📄 Received {len(files)} file(s)")
 
         if not files or len(files) == 0:
+            print("❌ No files in upload")
             return jsonify({'error': 'No files selected'}), 400
 
         borrower_info = {
             'name': request.form.get('borrower_name', 'Unknown Borrower'),
             'industry': request.form.get('borrower_industry', 'Not specified')
         }
+        print(f"👤 Borrower: {borrower_info['name']} | Industry: {borrower_info['industry']}")
 
         results = []
 
-        for file in files:
+        for i, file in enumerate(files, 1):
+            print(f"\n📄 Processing file {i}/{len(files)}: {file.filename}")
             if file.filename == '':
                 continue
 

@@ -1,0 +1,44 @@
+{
+  "generated_date": "2025-11-05T11:54:50.898035",
+  "total_memos": 50,
+  "risk_distribution": {
+    "3": 22,
+    "4": 9,
+    "5": 8,
+    "2": 6,
+    "1": 5
+  },
+  "borrower_types": {
+    "Hair Salon": 8,
+    "Wholesale Distributor": 5,
+    "Fitness Gym": 5,
+    "Auto Repair Shop": 4,
+    "Consultancy": 3,
+    "Cleaning Service": 3,
+    "Retail Store": 3,
+    "Food Truck": 2,
+    "Pharmacy": 2,
+    "Farm": 2,
+    "Construction Firm": 2,
+    "Landscaping LLC": 2,
+    "Restaurant": 2,
+    "Tech Startup": 2,
+    "Logistics Company": 2,
+    "Real Estate Developer": 1,
+    "Brewery": 1,
+    "Franchisee": 1
+  },
+  "loan_types": {
+    "Refinance Loan": 8,
+    "CRE Mortgage": 8,
+    "Working Capital": 6,
+    "Equipment Loan": 6,
+    "Inventory Loan": 6,
+    "Technology Upgrade Loan": 4,
+    "Revolving LOC": 4,
+    "Startup Capital": 3,
+    "SBA Term Loan": 3,
+    "Partner Buyout": 2
+  },
+  "avg_loan_amount": 1077197.7
+}
