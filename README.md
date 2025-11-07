@@ -123,7 +123,7 @@ An intelligent financial agent that automates credit memo generation for bank lo
 ## Project Structure
 
 ```
-landing-ai-hackathon/
+credit-memo/
 ├── backend/
 │   ├── app.py                 # Flask REST API (RAG-enhanced)
 │   ├── ade_api.py            # LandingAI ADE integration
@@ -160,14 +160,9 @@ landing-ai-hackathon/
 │   ├── regulatory-exam-response-fdic-2024.md
 │   └── bsa-aml-annual-risk-assessment-2024.md
 ├── .env                      # Environment variables (API keys + DB)
-├── .env.example              # Template for environment variables
-├── CLAUDE.md                 # Development guide
-├── FEATURES.md               # Comprehensive feature documentation
-├── MVP_READINESS_CHECKLIST.md # Pre-submission checklist
-├── RAG_SETUP_GUIDE.md        # Comprehensive RAG setup guide
-├── RAG_QUICK_START.md        # 5-minute RAG quick start
-├── RAG_IMPLEMENTATION_SUMMARY.md # Technical implementation details
-└── README.md
+├── .gitignore                # Git ignore rules
+├── CLAUDE.md                 # Development guide for AI assistant
+└── README.md                 # This file
 ```
 
 ---
@@ -185,7 +180,8 @@ landing-ai-hackathon/
 ### 1. Clone and Navigate
 
 ```bash
-cd landing-ai-hackathon
+git clone https://github.com/sdarive/credit-memo.git
+cd credit-memo
 ```
 
 ### 2. Backend Setup
@@ -201,7 +197,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-The backend will run on `http://localhost:5000`
+The backend will run on `http://localhost:5001`
 
 ### 3. Frontend Setup
 
@@ -258,8 +254,8 @@ psql credit_memo_kb -c "CREATE EXTENSION vector;"
 # Configure environment (add to .env)
 echo "POSTGRES_HOST=localhost" >> backend/.env
 echo "POSTGRES_DB=credit_memo_kb" >> backend/.env
-echo "POSTGRES_USER=postgres" >> backend/.env
-echo "POSTGRES_PASSWORD=your_password" >> backend/.env
+echo "POSTGRES_USER=$(whoami)" >> backend/.env  # Uses your system username
+echo "POSTGRES_PASSWORD=" >> backend/.env  # Leave blank if no password set
 
 # Run automated setup
 cd backend
@@ -479,14 +475,14 @@ For the 4-minute demo on November 15:
 
 **Port already in use:**
 ```bash
-# Kill process on port 5000
-lsof -ti:5000 | xargs kill -9
+# Kill process on port 5001
+lsof -ti:5001 | xargs kill -9
 ```
 
 ### Frontend Issues
 
 **Cannot connect to backend:**
-- Ensure backend is running on port 5000
+- Ensure backend is running on port 5001
 - Check CORS is enabled (flask-cors installed)
 - Clear browser cache
 
@@ -517,14 +513,15 @@ Built for the LandingAI Financial AI Hackathon Championship 2025
 
 ---
 
-## Next Steps
+## Hackathon Submission
 
-### Before Submission (Nov 10, 11:59 PM ET)
+### Submission Status ✅
 
-- [ ] Test with real financial documents
-- [ ] Verify AWS Bedrock integration with your credentials
-- [ ] Record 4-minute demo video
-- [ ] Submit via Google Form: https://forms.gle/q682wg7ZWLnNUqQL6
+- [x] Tested with real financial documents
+- [x] Verified AWS Bedrock integration
+- [x] Recorded 4-minute demo video
+- [x] Submitted via Google Form (Nov 7, 2025)
+- [x] GitHub repository: https://github.com/sdarive/credit-memo
 
 ### For Production
 
