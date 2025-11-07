@@ -349,7 +349,8 @@ def test_extraction():
         ratios = financial_calc.calculate_all_ratios(sample_data)
 
         # Generate memo (with RAG if enabled)
-        use_rag = request.json.get('use_rag', True) if request.json else True
+        # Default to False for test data to speed up demo recording
+        use_rag = request.json.get('use_rag', False) if request.json else False
 
         if bedrock_client:
             memo = bedrock_client.generate_credit_memo(
@@ -552,4 +553,4 @@ if __name__ == '__main__':
     print("="*60 + "\n")
 
     # Run the Flask app
-    app.run(debug=True, host='0.0.0.0', port=5001)
+    app.run(debug=False, host='0.0.0.0', port=5001)
