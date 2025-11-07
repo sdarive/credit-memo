@@ -1,5 +1,6 @@
 # Environment variables
 .env
+backend/.env
 
 # Internal planning and testing documents
 CLAUDE.md
@@ -18,6 +19,16 @@ RAG_QUICK_START.md
 RAG_SETUP_GUIDE.md
 TESTING_PLAN.md
 WORD_TEMPLATE_IMPLEMENTATION.md
+FINAL_SUBMISSION_TASKS.md
+QUICK_CHECKLIST.md
+DEMO_SCRIPT_FINAL.md
+DEMO_CHEAT_SHEET.md
+DEMO_SLIDES_OUTLINE.md
+TEST_RESULTS.txt
+Automated Credit Memo Generation MVP.md
+Hackathon_Rules.md
+Step-by-step Instructions.md
+rag_setup.log
 test_backend.html
 backend/TESTING_README.md
 backend/check_*.py
@@ -108,6 +119,8 @@ datasets/SBA_Loan_Applications_Realistic.tar.gz
 datasets/SUMMARY.txt
 datasets/Sample-Enhanced-Memo.pdf
 datasets/*.md
+datasets/MASTER_INDEX.csv
+datasets/*.docx
 backend/test_credit_memo.docx
 
 # Input documents reference
