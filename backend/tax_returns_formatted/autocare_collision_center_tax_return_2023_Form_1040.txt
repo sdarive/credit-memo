@@ -1,0 +1,101 @@
+
+================================================================================
+                        U.S. Individual Income Tax Return
+                               Form 1040
+                          Tax Year 2023
+================================================================================
+
+Department of the Treasury - Internal Revenue Service
+
+Filing Status:  Single
+
+Name and Address:
+  Michael Thompson
+  SSN: 130-95-7079
+  State: OH
+
+================================================================================
+                                   INCOME
+================================================================================
+
+1.  Wages, salaries, tips, etc.                        $0.00
+2a. Tax-exempt interest                                $0.00
+2b. Taxable interest                                   $3,967.64
+3a. Qualified dividends                                $0.00
+3b. Ordinary dividends                                 $6,854.93
+4.  IRA distributions                                  $0.00
+5.  Pensions and annuities                             $0.00
+6.  Social security benefits                           $0.00
+7.  Capital gain or (loss)                             $0.00
+8.  Schedule 1, Additional Income                      $42,884.55
+
+                                                       ─────────────────
+9.  TOTAL INCOME                                       $53,707.12
+                                                       ─────────────────
+
+================================================================================
+                    ADJUSTMENTS TO INCOME
+================================================================================
+
+10a. Deductible part of self-employment tax            $3,280.67
+10b. Self-employed SEP, SIMPLE, qualified plans        $8,576.91
+10c. Self-employed health insurance deduction          $8,479.27
+10d. Other adjustments                                 $0.00
+
+                                                       ─────────────────
+11.  Total adjustments                                 $11,857.58
+                                                       ─────────────────
+
+12.  ADJUSTED GROSS INCOME (AGI)                       $41,849.54
+                                                       =================
+
+================================================================================
+                    STANDARD DEDUCTION
+================================================================================
+
+13.  Standard deduction or itemized deductions         $13,850.00
+
+14.  TAXABLE INCOME                                    $27,999.54
+                                                       =================
+
+================================================================================
+                            TAX AND CREDITS
+================================================================================
+
+15.  Federal income tax                                $3,139.94
+16.  Self-employment tax (Schedule SE)                 $6,561.34
+
+                                                       ─────────────────
+17.  TOTAL TAX                                         $9,701.28
+                                                       =================
+
+================================================================================
+                               PAYMENTS
+================================================================================
+
+18.  Federal income tax withheld                       $0.00
+19.  Estimated tax payments                            $9,586.20
+
+                                                       ─────────────────
+20.  Total payments                                    $9,586.20
+                                                       ─────────────────
+
+================================================================================
+                        REFUND OR AMOUNT YOU OWE
+================================================================================
+
+21.  Amount overpaid (REFUND)                          $0.00
+22.  Amount you owe                                    $1,240.57
+
+================================================================================
+
+Sign     Under penalties of perjury, I declare that I have examined this return
+Here     and accompanying schedules and statements, and to the best of my knowledge
+         and belief, they are true, correct, and complete.
+
+Your signature __________________ Date __________
+Spouse's signature __________________ Date __________
+
+================================================================================
+                    For IRS Use Only - Do Not Write in This Space
+================================================================================

@@ -1,0 +1,107 @@
+
+================================================================================
+                        U.S. Income Tax Return for an S Corporation
+                               Form 1120-S
+                          Tax Year 2023
+================================================================================
+
+Department of the Treasury
+Internal Revenue Service
+
+A.  S election effective date: 2014-01-01
+B.  Business activity code: 5812
+C.  Employer identification number: 96-2629236
+
+Corporation Name: Elegant Events Catering
+State of incorporation: IL
+Date incorporated: 2014-01-01
+
+================================================================================
+                        INCOME
+================================================================================
+
+1a. Gross receipts or sales                            $1,182,878.83
+1b. Returns and allowances                             $0.00
+1c. Balance (subtract 1b from 1a)                      $1,182,878.83
+2.  Cost of goods sold (Schedule A)                    $412,130.74
+                                                       ─────────────────
+3.  Gross profit (subtract line 2 from 1c)             $770,748.09
+                                                       ─────────────────
+4.  Net gain (loss) from Form 4797                     $0.00
+5.  Other income                                       $0.00
+                                                       ─────────────────
+6.  TOTAL INCOME (add lines 3, 4, and 5)               $770,748.09
+                                                       =================
+
+================================================================================
+                        DEDUCTIONS
+================================================================================
+
+7.  Compensation of officers                           $96,714.50
+8.  Salaries and wages                                 $225,667.16
+9.  Repairs and maintenance                            $22,174.32
+10. Bad debts                                          $8,338.91
+11. Rents                                              $122,680.97
+12. Taxes and licenses                                 $18,916.31
+13. Interest                                           $15,159.86
+14. Depreciation                                       $50,707.54
+15. Advertising                                        $32,767.29
+16. Pension, profit-sharing, etc., plans               $12,810.24
+17. Employee benefit programs                          $26,652.82
+18. Other deductions                                   $66,964.32
+
+                                                       ─────────────────
+19. TOTAL DEDUCTIONS (add lines 7 through 18)          $678,020.08
+                                                       =================
+
+20. ORDINARY BUSINESS INCOME (LOSS)                    $92,728.02
+    (subtract line 19 from line 6)                     =================
+
+================================================================================
+                    SCHEDULE K - DISTRIBUTIVE SHARE ITEMS
+================================================================================
+
+1.  Ordinary business income (loss) (page 1, line 20)  $92,728.02
+2.  Net rental real estate income (loss)               $0.00
+3.  Other net rental income (loss)                     $0.00
+4.  Interest income                                    $1,266.61
+5.  Dividends                                          $0.00
+6.  Royalties                                          $0.00
+7.  Net short-term capital gain (loss)                 $0.00
+8.  Net long-term capital gain (loss)                  $0.00
+9.  Other income (loss)                                $0.00
+
+================================================================================
+                    SCHEDULE L - BALANCE SHEETS
+================================================================================
+
+ASSETS                                    Beginning of Year    End of Year
+────────────────────────────────────────────────────────────────────────────
+Cash                                      $     110,071.57    $     122,301.74
+Accounts receivable                       $     131,767.86    $     146,408.74
+Inventory                                 $      68,557.58    $      76,175.09
+Other current assets                      $      25,644.53    $      28,493.93
+Fixed assets (net)                        $     465,136.31    $     425,220.06
+Other assets                              $           0.00    $           0.00
+                                          ─────────────────    ─────────────────
+TOTAL ASSETS                              $     718,739.60    $     798,599.55
+                                          =================    =================
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+────────────────────────────────────────────────────────────────────────────
+Accounts payable                          $      70,404.54    $      78,227.27
+Current portion long-term debt            $      22,500.00    $      22,500.00
+Other current liabilities                 $      33,225.83    $      36,917.59
+Long-term debt                            $     222,750.00    $     202,500.00
+Capital stock                             $       1,000.00    $       1,000.00
+Retained earnings                         $     368,859.22    $     457,454.69
+                                          ─────────────────    ─────────────────
+TOTAL LIABILITIES & EQUITY                $     718,739.60    $     798,599.55
+                                          =================    =================
+
+================================================================================
+
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 11510H                                        Form 1120-S (2023)
+
+================================================================================

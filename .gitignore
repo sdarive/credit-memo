@@ -122,7 +122,9 @@ datasets/SBA_Loan_Applications_Realistic.tar.gz
 datasets/SUMMARY.txt
 datasets/Sample-Enhanced-Memo.pdf
 datasets/*.md
+!datasets/IRS_TAX_DATA_README.md
 datasets/MASTER_INDEX.csv
+!datasets/TAX_RETURNS_INVENTORY.csv
 datasets/*.docx
 backend/test_credit_memo.docx
 

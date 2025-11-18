@@ -1,0 +1,182 @@
+{
+  "business_info": {
+    "Business Name": "Elegant Events Catering",
+    "EIN": "96-2629236",
+    "Entity Type": "S-Corp",
+    "Industry": "Catering Services",
+    "SIC Code": "5812",
+    "Website": "www.elegantevents.com",
+    "State": "IL",
+    "Formation Year": "2014",
+    "Years in Business": "10",
+    "Loan Amount": "$225,000",
+    "Creditworthiness": "GOOD",
+    "Owner 1 Name": "Michelle White",
+    "Owner 1 SSN": "569-73-9339",
+    "Owner 1 Ownership %": "70%",
+    "Owner 1 Phone": "555-345-6781",
+    "Owner 1 Email": "michelle@elegantevents.com",
+    "Owner 2 Name": "Daniel White",
+    "Owner 2 SSN": "989-52-3081",
+    "Owner 2 Ownership %": "30%",
+    "Owner 2 Phone": "555-345-6782",
+    "Owner 2 Email": "daniel@elegantevents.com",
+    "Folder Name": "elegant_events_catering",
+    "Document Count": "16"
+  },
+  "tax_year": 2023,
+  "annual_revenue": 1182878.83,
+  "forms": {
+    "form_1120s": {
+      "form": "1120-S",
+      "tax_year": 2023,
+      "corporation_name": "Elegant Events Catering",
+      "ein": "96-2629236",
+      "business_code": "5812",
+      "date_incorporated": "2014-01-01",
+      "state_of_incorporation": "IL",
+      "gross_receipts": 1182878.83,
+      "returns_allowances": 0,
+      "cost_of_goods_sold": 412130.74,
+      "gross_profit": 770748.09,
+      "net_gain_loss": 0,
+      "other_income": 0,
+      "total_income": 770748.09,
+      "compensation_officers": 96714.5,
+      "salaries_wages": 225667.16,
+      "repairs_maintenance": 22174.32,
+      "bad_debts": 8338.91,
+      "rents": 122680.97,
+      "taxes_licenses": 18916.31,
+      "interest": 15159.86,
+      "depreciation": 50707.54,
+      "advertising": 32767.29,
+      "pension_plans": 12810.24,
+      "employee_benefits": 26652.82,
+      "other_deductions": 66964.32,
+      "total_deductions": 678020.08,
+      "ordinary_business_income": 92728.02,
+      "schedule_k": {
+        "ordinary_income": 92728.02,
+        "rental_real_estate_income": 0,
+        "other_rental_income": 0,
+        "interest_income": 1266.61,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0,
+        "other_income": 0
+      },
+      "balance_sheet": {
+        "beginning_of_year": {
+          "assets": {
+            "cash": 110071.57,
+            "accounts_receivable": 131767.86,
+            "inventory": 68557.58,
+            "other_current_assets": 25644.53,
+            "fixed_assets": 584885.06,
+            "accumulated_depreciation": 119748.75,
+            "other_assets": 0,
+            "total_assets": 718739.6
+          },
+          "liabilities_equity": {
+            "accounts_payable": 70404.54,
+            "current_portion_long_term_debt": 22500.0,
+            "other_current_liabilities": 33225.83,
+            "long_term_debt": 222750.0,
+            "capital_stock": 1000,
+            "retained_earnings": 368859.22,
+            "total_liabilities_equity": 718739.6
+          }
+        },
+        "end_of_year": {
+          "assets": {
+            "cash": 122301.74,
+            "accounts_receivable": 146408.74,
+            "inventory": 76175.09,
+            "other_current_assets": 28493.93,
+            "fixed_assets": 584885.06,
+            "accumulated_depreciation": 159665.0,
+            "other_assets": 0,
+            "total_assets": 798599.55
+          },
+          "liabilities_equity": {
+            "accounts_payable": 78227.27,
+            "current_portion_long_term_debt": 22500.0,
+            "other_current_liabilities": 36917.59,
+            "long_term_debt": 202500.0,
+            "capital_stock": 1000,
+            "retained_earnings": 457454.69,
+            "total_liabilities_equity": 798599.55
+          }
+        }
+      }
+    },
+    "schedule_k1_owner1": {
+      "form": "Schedule K-1 (Form 1120-S)",
+      "tax_year": 2023,
+      "corporation_name": "Elegant Events Catering",
+      "corporation_ein": "96-2629236",
+      "shareholder": {
+        "name": "Michelle White",
+        "ssn": "569-73-9339",
+        "ownership_percentage": 70.0
+      },
+      "shareholder_share_of_income": {
+        "ordinary_business_income": 64909.61,
+        "net_rental_real_estate_income": 0,
+        "other_net_rental_income": 0,
+        "interest_income": 886.63,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0
+      },
+      "shareholder_share_of_deductions": {
+        "section_179_deduction": 0,
+        "charitable_contributions": 0,
+        "investment_interest": 0
+      },
+      "shareholder_capital_account": {
+        "beginning_capital": 258201.45,
+        "capital_contributed": 0,
+        "current_year_income": 64909.61,
+        "withdrawals_distributions": 36083.74,
+        "ending_capital": 320218.28
+      }
+    },
+    "schedule_k1_owner2": {
+      "form": "Schedule K-1 (Form 1120-S)",
+      "tax_year": 2023,
+      "corporation_name": "Elegant Events Catering",
+      "corporation_ein": "96-2629236",
+      "shareholder": {
+        "name": "Daniel White",
+        "ssn": "989-52-3081",
+        "ownership_percentage": 30.0
+      },
+      "shareholder_share_of_income": {
+        "ordinary_business_income": 27818.41,
+        "net_rental_real_estate_income": 0,
+        "other_net_rental_income": 0,
+        "interest_income": 379.98,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0
+      },
+      "shareholder_share_of_deductions": {
+        "section_179_deduction": 0,
+        "charitable_contributions": 0,
+        "investment_interest": 0
+      },
+      "shareholder_capital_account": {
+        "beginning_capital": 110657.77,
+        "capital_contributed": 0,
+        "current_year_income": 27818.41,
+        "withdrawals_distributions": 13990.14,
+        "ending_capital": 137236.41
+      }
+    }
+  }
+}

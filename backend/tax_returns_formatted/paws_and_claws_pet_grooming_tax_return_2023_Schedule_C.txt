@@ -1,0 +1,95 @@
+
+================================================================================
+                        SCHEDULE C
+                (Form 1040)
+         Profit or Loss From Business
+         (Sole Proprietorship)
+================================================================================
+
+                          Tax Year 2023
+
+Department of the Treasury
+Internal Revenue Service (99)
+
+Name of proprietor: Emily Taylor
+Social Security Number: 739-44-9607
+
+A.  Principal business or profession: Pet Grooming Services
+B.  Business name: Paws & Claws Pet Grooming
+C.  Business address: CO
+D.  Employer ID number (EIN): 95-6901142
+E.  Business code: 0752
+F.  Accounting method: Cash
+G.  Did you "materially participate" in the operation of this business? Yes [X] No [ ]
+
+================================================================================
+                            PART I - INCOME
+================================================================================
+
+1.  Gross receipts or sales                            $532,974.07
+2.  Returns and allowances                             $0.00
+3.  Subtract line 2 from line 1                        $532,974.07
+4.  Cost of goods sold (from Part III)                 $66,528.15
+                                                       ─────────────────
+5.  Gross profit (subtract line 4 from line 3)         $466,445.92
+                                                       ─────────────────
+6.  Other income                                       $0.00
+                                                       ─────────────────
+7.  GROSS INCOME (add lines 5 and 6)                   $466,445.92
+                                                       =================
+
+================================================================================
+                        PART II - EXPENSES
+================================================================================
+
+8.  Advertising                                        $21,618.49
+9.  Car and truck expenses                             $0.00
+10. Commissions and fees                               $0.00
+11. Contract labor                                     $43,994.45
+12. Depletion                                          $0.00
+13. Depreciation                                       $10,738.70
+14. Employee benefit programs                          $7,332.41
+15. Insurance (other than health)                      $17,645.40
+16. Interest:
+    a. Mortgage (paid to banks, etc.)                  $0.00
+    b. Other                                           $6,112.79
+17. Legal and professional services                    $3,218.11
+18. Office expense                                     $9,728.80
+19. Pension and profit-sharing plans                   $0.00
+20. Rent or lease:
+    a. Vehicles, machinery, equipment                  $0.00
+    b. Other business property                         $43,305.11
+21. Repairs and maintenance                            $14,510.91
+22. Supplies                                           $4,864.40
+23. Taxes and licenses                                 $6,509.02
+24. Travel and meals:
+    a. Travel                                          $5,513.15
+    b. Deductible meals                                $8,734.42
+25. Utilities                                          $22,155.13
+26. Wages (less employment credits)                    $95,321.30
+27. Other expenses                                     $25,875.55
+
+                                                       ─────────────────
+28. Total expenses (add lines 8 through 27)            $378,754.39
+                                                       =================
+
+================================================================================
+                            NET PROFIT OR LOSS
+================================================================================
+
+29. Tentative profit or (loss) (line 7 minus 28)       $154,219.68
+
+30. Expenses for business use of your home             $0.00
+
+31. NET PROFIT OR (LOSS)                               $154,219.68
+    (subtract line 30 from line 29)                    =================
+
+    If a profit, enter on Form 1040, line 8, and also on Schedule SE, line 2.
+    If a loss, you must go to line 32.
+
+================================================================================
+
+For Paperwork Reduction Act Notice, see your tax return instructions.
+Cat. No. 11334P                                        Schedule C (Form 1040)
+
+================================================================================

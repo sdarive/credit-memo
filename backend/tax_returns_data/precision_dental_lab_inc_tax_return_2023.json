@@ -1,0 +1,182 @@
+{
+  "business_info": {
+    "Business Name": "Precision Dental Lab Inc",
+    "EIN": "70-4465983",
+    "Entity Type": "S-Corp",
+    "Industry": "Dental Laboratory",
+    "SIC Code": "8072",
+    "Website": "www.precisiondentallab.com",
+    "State": "NJ",
+    "Formation Year": "2014",
+    "Years in Business": "10",
+    "Loan Amount": "$450,000",
+    "Creditworthiness": "EXCELLENT",
+    "Owner 1 Name": "Dr. Steven Kim",
+    "Owner 1 SSN": "440-20-1347",
+    "Owner 1 Ownership %": "65%",
+    "Owner 1 Phone": "555-012-3458",
+    "Owner 1 Email": "steven@precisiondentallab.com",
+    "Owner 2 Name": "Dr. Linda Park",
+    "Owner 2 SSN": "369-87-4601",
+    "Owner 2 Ownership %": "35%",
+    "Owner 2 Phone": "555-012-3459",
+    "Owner 2 Email": "linda@precisiondentallab.com",
+    "Folder Name": "precision_dental_lab_inc",
+    "Document Count": "16"
+  },
+  "tax_year": 2023,
+  "annual_revenue": 3876804.26,
+  "forms": {
+    "form_1120s": {
+      "form": "1120-S",
+      "tax_year": 2023,
+      "corporation_name": "Precision Dental Lab Inc",
+      "ein": "70-4465983",
+      "business_code": "8072",
+      "date_incorporated": "2014-01-01",
+      "state_of_incorporation": "NJ",
+      "gross_receipts": 3876804.26,
+      "returns_allowances": 0,
+      "cost_of_goods_sold": 871518.63,
+      "gross_profit": 3005285.63,
+      "net_gain_loss": 0,
+      "other_income": 0,
+      "total_income": 3005285.63,
+      "compensation_officers": 375453.36,
+      "salaries_wages": 876057.84,
+      "repairs_maintenance": 100422.46,
+      "bad_debts": 19298.88,
+      "rents": 336271.44,
+      "taxes_licenses": 41244.73,
+      "interest": 30820.61,
+      "depreciation": 128596.87,
+      "advertising": 95937.27,
+      "pension_plans": 69789.77,
+      "employee_benefits": 123896.8,
+      "other_deductions": 187093.83,
+      "total_deductions": 2346011.71,
+      "ordinary_business_income": 659273.92,
+      "schedule_k": {
+        "ordinary_income": 659273.92,
+        "rental_real_estate_income": 0,
+        "other_rental_income": 0,
+        "interest_income": 595.68,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0,
+        "other_income": 0
+      },
+      "balance_sheet": {
+        "beginning_of_year": {
+          "assets": {
+            "cash": 477926.85,
+            "accounts_receivable": 514990.14,
+            "inventory": 147654.2,
+            "other_current_assets": 104843.58,
+            "fixed_assets": 1447026.73,
+            "accumulated_depreciation": 390328.68,
+            "other_assets": 0,
+            "total_assets": 2079344.41
+          },
+          "liabilities_equity": {
+            "accounts_payable": 348537.54,
+            "current_portion_long_term_debt": 45000.0,
+            "other_current_liabilities": 143946.64,
+            "long_term_debt": 445500.0,
+            "capital_stock": 1000,
+            "retained_earnings": 1095360.24,
+            "total_liabilities_equity": 2079344.41
+          }
+        },
+        "end_of_year": {
+          "assets": {
+            "cash": 531029.83,
+            "accounts_receivable": 572211.26,
+            "inventory": 164060.22,
+            "other_current_assets": 116492.87,
+            "fixed_assets": 1447026.73,
+            "accumulated_depreciation": 520438.24,
+            "other_assets": 0,
+            "total_assets": 2310382.68
+          },
+          "liabilities_equity": {
+            "accounts_payable": 387263.93,
+            "current_portion_long_term_debt": 45000.0,
+            "other_current_liabilities": 159940.71,
+            "long_term_debt": 405000.0,
+            "capital_stock": 1000,
+            "retained_earnings": 1312178.04,
+            "total_liabilities_equity": 2310382.68
+          }
+        }
+      }
+    },
+    "schedule_k1_owner1": {
+      "form": "Schedule K-1 (Form 1120-S)",
+      "tax_year": 2023,
+      "corporation_name": "Precision Dental Lab Inc",
+      "corporation_ein": "70-4465983",
+      "shareholder": {
+        "name": "Dr. Steven Kim",
+        "ssn": "440-20-1347",
+        "ownership_percentage": 65.0
+      },
+      "shareholder_share_of_income": {
+        "ordinary_business_income": 428528.05,
+        "net_rental_real_estate_income": 0,
+        "other_net_rental_income": 0,
+        "interest_income": 387.19,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0
+      },
+      "shareholder_share_of_deductions": {
+        "section_179_deduction": 0,
+        "charitable_contributions": 0,
+        "investment_interest": 0
+      },
+      "shareholder_capital_account": {
+        "beginning_capital": 711984.16,
+        "capital_contributed": 0,
+        "current_year_income": 428528.05,
+        "withdrawals_distributions": 253592.38,
+        "ending_capital": 852915.73
+      }
+    },
+    "schedule_k1_owner2": {
+      "form": "Schedule K-1 (Form 1120-S)",
+      "tax_year": 2023,
+      "corporation_name": "Precision Dental Lab Inc",
+      "corporation_ein": "70-4465983",
+      "shareholder": {
+        "name": "Dr. Linda Park",
+        "ssn": "369-87-4601",
+        "ownership_percentage": 35.0
+      },
+      "shareholder_share_of_income": {
+        "ordinary_business_income": 230745.87,
+        "net_rental_real_estate_income": 0,
+        "other_net_rental_income": 0,
+        "interest_income": 208.49,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0
+      },
+      "shareholder_share_of_deductions": {
+        "section_179_deduction": 0,
+        "charitable_contributions": 0,
+        "investment_interest": 0
+      },
+      "shareholder_capital_account": {
+        "beginning_capital": 383376.08,
+        "capital_contributed": 0,
+        "current_year_income": 230745.87,
+        "withdrawals_distributions": 132886.01,
+        "ending_capital": 459262.31
+      }
+    }
+  }
+}

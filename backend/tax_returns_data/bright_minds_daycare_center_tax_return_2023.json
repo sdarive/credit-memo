@@ -1,0 +1,182 @@
+{
+  "business_info": {
+    "Business Name": "Bright Minds Daycare Center",
+    "EIN": "49-8201183",
+    "Entity Type": "S-Corp",
+    "Industry": "Child Care Services",
+    "SIC Code": "8351",
+    "Website": "www.brightmindsdaycare.com",
+    "State": "GA",
+    "Formation Year": "2015",
+    "Years in Business": "9",
+    "Loan Amount": "$200,000",
+    "Creditworthiness": "GOOD",
+    "Owner 1 Name": "Jennifer Davis",
+    "Owner 1 SSN": "582-31-8722",
+    "Owner 1 Ownership %": "80%",
+    "Owner 1 Phone": "555-901-2345",
+    "Owner 1 Email": "jennifer@brightminds.com",
+    "Owner 2 Name": "Amanda Wilson",
+    "Owner 2 SSN": "989-24-5615",
+    "Owner 2 Ownership %": "20%",
+    "Owner 2 Phone": "555-901-2346",
+    "Owner 2 Email": "amanda@brightminds.com",
+    "Folder Name": "bright_minds_daycare_center",
+    "Document Count": "16"
+  },
+  "tax_year": 2023,
+  "annual_revenue": 1046531.57,
+  "forms": {
+    "form_1120s": {
+      "form": "1120-S",
+      "tax_year": 2023,
+      "corporation_name": "Bright Minds Daycare Center",
+      "ein": "49-8201183",
+      "business_code": "8351",
+      "date_incorporated": "2015-01-01",
+      "state_of_incorporation": "GA",
+      "gross_receipts": 1046531.57,
+      "returns_allowances": 0,
+      "cost_of_goods_sold": 160001.78,
+      "gross_profit": 886529.79,
+      "net_gain_loss": 0,
+      "other_income": 0,
+      "total_income": 886529.79,
+      "compensation_officers": 128241.89,
+      "salaries_wages": 299231.07,
+      "repairs_maintenance": 11196.39,
+      "bad_debts": 9438.54,
+      "rents": 129216.75,
+      "taxes_licenses": 12815.47,
+      "interest": 11470.66,
+      "depreciation": 33382.19,
+      "advertising": 23781.73,
+      "pension_plans": 20793.69,
+      "employee_benefits": 42320.08,
+      "other_deductions": 35807.67,
+      "total_deductions": 750362.5,
+      "ordinary_business_income": 136167.29,
+      "schedule_k": {
+        "ordinary_income": 136167.29,
+        "rental_real_estate_income": 0,
+        "other_rental_income": 0,
+        "interest_income": 1346.83,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0,
+        "other_income": 0
+      },
+      "balance_sheet": {
+        "beginning_of_year": {
+          "assets": {
+            "cash": 129349.84,
+            "accounts_receivable": 85554.9,
+            "inventory": 24964.58,
+            "other_current_assets": 41407.62,
+            "fixed_assets": 430057.57,
+            "accumulated_depreciation": 67370.69,
+            "other_assets": 0,
+            "total_assets": 587483.93
+          },
+          "liabilities_equity": {
+            "accounts_payable": 49295.87,
+            "current_portion_long_term_debt": 20000.0,
+            "other_current_liabilities": 43193.65,
+            "long_term_debt": 198000.0,
+            "capital_stock": 1000,
+            "retained_earnings": 275994.41,
+            "total_liabilities_equity": 587483.93
+          }
+        },
+        "end_of_year": {
+          "assets": {
+            "cash": 143722.05,
+            "accounts_receivable": 95061.0,
+            "inventory": 27738.42,
+            "other_current_assets": 46008.46,
+            "fixed_assets": 430057.57,
+            "accumulated_depreciation": 89827.59,
+            "other_assets": 0,
+            "total_assets": 652759.92
+          },
+          "liabilities_equity": {
+            "accounts_payable": 54773.19,
+            "current_portion_long_term_debt": 20000.0,
+            "other_current_liabilities": 47992.94,
+            "long_term_debt": 180000.0,
+            "capital_stock": 1000,
+            "retained_earnings": 348993.79,
+            "total_liabilities_equity": 652759.92
+          }
+        }
+      }
+    },
+    "schedule_k1_owner1": {
+      "form": "Schedule K-1 (Form 1120-S)",
+      "tax_year": 2023,
+      "corporation_name": "Bright Minds Daycare Center",
+      "corporation_ein": "49-8201183",
+      "shareholder": {
+        "name": "Jennifer Davis",
+        "ssn": "582-31-8722",
+        "ownership_percentage": 80.0
+      },
+      "shareholder_share_of_income": {
+        "ordinary_business_income": 108933.83,
+        "net_rental_real_estate_income": 0,
+        "other_net_rental_income": 0,
+        "interest_income": 1077.46,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0
+      },
+      "shareholder_share_of_deductions": {
+        "section_179_deduction": 0,
+        "charitable_contributions": 0,
+        "investment_interest": 0
+      },
+      "shareholder_capital_account": {
+        "beginning_capital": 220795.53,
+        "capital_contributed": 0,
+        "current_year_income": 108933.83,
+        "withdrawals_distributions": 63979.97,
+        "ending_capital": 279195.03
+      }
+    },
+    "schedule_k1_owner2": {
+      "form": "Schedule K-1 (Form 1120-S)",
+      "tax_year": 2023,
+      "corporation_name": "Bright Minds Daycare Center",
+      "corporation_ein": "49-8201183",
+      "shareholder": {
+        "name": "Amanda Wilson",
+        "ssn": "989-24-5615",
+        "ownership_percentage": 20.0
+      },
+      "shareholder_share_of_income": {
+        "ordinary_business_income": 27233.46,
+        "net_rental_real_estate_income": 0,
+        "other_net_rental_income": 0,
+        "interest_income": 269.37,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0
+      },
+      "shareholder_share_of_deductions": {
+        "section_179_deduction": 0,
+        "charitable_contributions": 0,
+        "investment_interest": 0
+      },
+      "shareholder_capital_account": {
+        "beginning_capital": 55198.88,
+        "capital_contributed": 0,
+        "current_year_income": 27233.46,
+        "withdrawals_distributions": 10903.14,
+        "ending_capital": 69798.76
+      }
+    }
+  }
+}

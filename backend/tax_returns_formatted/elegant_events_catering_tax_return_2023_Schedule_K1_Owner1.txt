@@ -1,0 +1,64 @@
+
+================================================================================
+                        Schedule K-1
+                      (Form 1120-S)
+        Shareholder's Share of Income, Deductions, Credits, etc.
+================================================================================
+
+                          Tax Year 2023
+
+Department of the Treasury
+Internal Revenue Service
+
+Part I - Information About the Corporation
+
+Corporation's name: Elegant Events Catering
+Corporation's EIN: 96-2629236
+
+Part II - Information About the Shareholder
+
+Shareholder's name: Michelle White
+Shareholder's SSN: 569-73-9339
+Shareholder's percentage of stock ownership: 70.0%
+
+================================================================================
+            Part III - Shareholder's Share of Current Year Income,
+                      Deductions, Credits, and Other Items
+================================================================================
+
+                        INCOME (LOSS)
+
+1.  Ordinary business income (loss)                    $64,909.61
+2.  Net rental real estate income (loss)               $0.00
+3.  Other net rental income (loss)                     $0.00
+4.  Interest income                                    $886.63
+5.  Ordinary dividends                                 $0.00
+6.  Royalties                                          $0.00
+7.  Net short-term capital gain (loss)                 $0.00
+8.  Net long-term capital gain (loss)                  $0.00
+
+                        DEDUCTIONS
+
+9.  Section 179 deduction                              $0.00
+10. Charitable contributions                           $0.00
+11. Investment interest expense                        $0.00
+
+================================================================================
+            SHAREHOLDER'S CAPITAL ACCOUNT ANALYSIS
+================================================================================
+
+Beginning capital account                              $258,201.45
+Capital contributed during the year                    $0.00
+Current year net income (loss)                         $64,909.61
+Other increase (decrease)                              $0.00
+Withdrawals and distributions                          $36,083.74
+                                                       ─────────────────
+Ending capital account                                 $320,218.28
+                                                       =================
+
+================================================================================
+
+For Paperwork Reduction Act Notice, see instructions for Form 1120-S.
+Cat. No. 11520D                            Schedule K-1 (Form 1120-S) 2023
+
+================================================================================

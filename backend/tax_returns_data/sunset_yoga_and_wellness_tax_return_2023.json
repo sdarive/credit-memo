@@ -1,0 +1,149 @@
+{
+  "business_info": {
+    "Business Name": "Sunset Yoga & Wellness",
+    "EIN": "32-4536842",
+    "Entity Type": "S-Corp",
+    "Industry": "Yoga Studio",
+    "SIC Code": "7991",
+    "Website": "www.sunsetyogawellness.com",
+    "State": "OR",
+    "Formation Year": "2014",
+    "Years in Business": "10",
+    "Loan Amount": "$150,000",
+    "Creditworthiness": "UGLY",
+    "Owner 1 Name": "Jessica Martinez",
+    "Owner 1 SSN": "351-95-5842",
+    "Owner 1 Ownership %": "100%",
+    "Owner 1 Phone": "555-789-0125",
+    "Owner 1 Email": "jessica@sunsetyoga.com",
+    "Owner 2 Name": "",
+    "Owner 2 SSN": "",
+    "Owner 2 Ownership %": "",
+    "Owner 2 Phone": "",
+    "Owner 2 Email": "",
+    "Folder Name": "sunset_yoga_and_wellness",
+    "Document Count": "12"
+  },
+  "tax_year": 2023,
+  "annual_revenue": 567149.85,
+  "forms": {
+    "form_1120s": {
+      "form": "1120-S",
+      "tax_year": 2023,
+      "corporation_name": "Sunset Yoga & Wellness",
+      "ein": "32-4536842",
+      "business_code": "7991",
+      "date_incorporated": "2014-01-01",
+      "state_of_incorporation": "OR",
+      "gross_receipts": 567149.85,
+      "returns_allowances": 0,
+      "cost_of_goods_sold": 56333.12,
+      "gross_profit": 510816.73,
+      "net_gain_loss": 0,
+      "other_income": 0,
+      "total_income": 510816.73,
+      "compensation_officers": 58413.05,
+      "salaries_wages": 136297.11,
+      "repairs_maintenance": 13842.53,
+      "bad_debts": 4386.54,
+      "rents": 53155.78,
+      "taxes_licenses": 9097.57,
+      "interest": 6815.97,
+      "depreciation": 19315.8,
+      "advertising": 24503.08,
+      "pension_plans": 6954.4,
+      "employee_benefits": 11983.47,
+      "other_deductions": 17153.66,
+      "total_deductions": 350995.75,
+      "ordinary_business_income": 159820.99,
+      "schedule_k": {
+        "ordinary_income": 159820.99,
+        "rental_real_estate_income": 0,
+        "other_rental_income": 0,
+        "interest_income": 937.57,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0,
+        "other_income": 0
+      },
+      "balance_sheet": {
+        "beginning_of_year": {
+          "assets": {
+            "cash": 32892.61,
+            "accounts_receivable": 75007.81,
+            "inventory": 8541.12,
+            "other_current_assets": 17702.15,
+            "fixed_assets": 183795.95,
+            "accumulated_depreciation": 47297.44,
+            "other_assets": 0,
+            "total_assets": 242803.11
+          },
+          "liabilities_equity": {
+            "accounts_payable": 47157.73,
+            "current_portion_long_term_debt": 15000.0,
+            "other_current_liabilities": 21940.8,
+            "long_term_debt": 148500.0,
+            "capital_stock": 1000,
+            "retained_earnings": 9204.58,
+            "total_liabilities_equity": 242803.11
+          }
+        },
+        "end_of_year": {
+          "assets": {
+            "cash": 36547.35,
+            "accounts_receivable": 83342.02,
+            "inventory": 9490.13,
+            "other_current_assets": 19669.05,
+            "fixed_assets": 183795.95,
+            "accumulated_depreciation": 63063.26,
+            "other_assets": 0,
+            "total_assets": 269781.24
+          },
+          "liabilities_equity": {
+            "accounts_payable": 52397.48,
+            "current_portion_long_term_debt": 15000.0,
+            "other_current_liabilities": 24378.66,
+            "long_term_debt": 135000.0,
+            "capital_stock": 1000,
+            "retained_earnings": 42005.09,
+            "total_liabilities_equity": 269781.24
+          }
+        }
+      }
+    },
+    "schedule_k1_owner1": {
+      "form": "Schedule K-1 (Form 1120-S)",
+      "tax_year": 2023,
+      "corporation_name": "Sunset Yoga & Wellness",
+      "corporation_ein": "32-4536842",
+      "shareholder": {
+        "name": "Jessica Martinez",
+        "ssn": "351-95-5842",
+        "ownership_percentage": 100.0
+      },
+      "shareholder_share_of_income": {
+        "ordinary_business_income": 159820.99,
+        "net_rental_real_estate_income": 0,
+        "other_net_rental_income": 0,
+        "interest_income": 937.57,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0
+      },
+      "shareholder_share_of_deductions": {
+        "section_179_deduction": 0,
+        "charitable_contributions": 0,
+        "investment_interest": 0
+      },
+      "shareholder_capital_account": {
+        "beginning_capital": 9204.58,
+        "capital_contributed": 0,
+        "current_year_income": 159820.99,
+        "withdrawals_distributions": 62430.7,
+        "ending_capital": 42005.09
+      }
+    }
+  }
+}

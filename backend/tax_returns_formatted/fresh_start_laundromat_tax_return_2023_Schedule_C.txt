@@ -1,0 +1,95 @@
+
+================================================================================
+                        SCHEDULE C
+                (Form 1040)
+         Profit or Loss From Business
+         (Sole Proprietorship)
+================================================================================
+
+                          Tax Year 2023
+
+Department of the Treasury
+Internal Revenue Service (99)
+
+Name of proprietor: Angela Garcia
+Social Security Number: 421-48-4288
+
+A.  Principal business or profession: Laundry Services
+B.  Business name: Fresh Start Laundromat
+C.  Business address: NV
+D.  Employer ID number (EIN): 75-9588286
+E.  Business code: 7215
+F.  Accounting method: Cash
+G.  Did you "materially participate" in the operation of this business? Yes [X] No [ ]
+
+================================================================================
+                            PART I - INCOME
+================================================================================
+
+1.  Gross receipts or sales                            $1,175,640.31
+2.  Returns and allowances                             $0.00
+3.  Subtract line 2 from line 1                        $1,175,640.31
+4.  Cost of goods sold (from Part III)                 $119,697.44
+                                                       ─────────────────
+5.  Gross profit (subtract line 4 from line 3)         $1,055,942.87
+                                                       ─────────────────
+6.  Other income                                       $0.00
+                                                       ─────────────────
+7.  GROSS INCOME (add lines 5 and 6)                   $1,055,942.87
+                                                       =================
+
+================================================================================
+                        PART II - EXPENSES
+================================================================================
+
+8.  Advertising                                        $35,010.97
+9.  Car and truck expenses                             $0.00
+10. Commissions and fees                               $0.00
+11. Contract labor                                     $94,625.02
+12. Depletion                                          $0.00
+13. Depreciation                                       $26,111.63
+14. Employee benefit programs                          $15,770.84
+15. Insurance (other than health)                      $37,033.09
+16. Interest:
+    a. Mortgage (paid to banks, etc.)                  $0.00
+    b. Other                                           $29,521.65
+17. Legal and professional services                    $16,952.23
+18. Office expense                                     $29,485.83
+19. Pension and profit-sharing plans                   $0.00
+20. Rent or lease:
+    a. Vehicles, machinery, equipment                  $0.00
+    b. Other business property                         $160,577.78
+21. Repairs and maintenance                            $25,832.85
+22. Supplies                                           $14,742.92
+23. Taxes and licenses                                 $19,505.76
+24. Travel and meals:
+    a. Travel                                          $11,924.31
+    b. Deductible meals                                $13,647.33
+25. Utilities                                          $39,786.04
+26. Wages (less employment credits)                    $205,020.88
+27. Other expenses                                     $68,814.10
+
+                                                       ─────────────────
+28. Total expenses (add lines 8 through 27)            $857,766.48
+                                                       =================
+
+================================================================================
+                            NET PROFIT OR LOSS
+================================================================================
+
+29. Tentative profit or (loss) (line 7 minus 28)       $317,873.83
+
+30. Expenses for business use of your home             $0.00
+
+31. NET PROFIT OR (LOSS)                               $317,873.83
+    (subtract line 30 from line 29)                    =================
+
+    If a profit, enter on Form 1040, line 8, and also on Schedule SE, line 2.
+    If a loss, you must go to line 32.
+
+================================================================================
+
+For Paperwork Reduction Act Notice, see your tax return instructions.
+Cat. No. 11334P                                        Schedule C (Form 1040)
+
+================================================================================

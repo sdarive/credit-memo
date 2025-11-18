@@ -1,0 +1,107 @@
+
+================================================================================
+                        U.S. Income Tax Return for an S Corporation
+                               Form 1120-S
+                          Tax Year 2023
+================================================================================
+
+Department of the Treasury
+Internal Revenue Service
+
+A.  S election effective date: 2014-01-01
+B.  Business activity code: 7991
+C.  Employer identification number: 32-4536842
+
+Corporation Name: Sunset Yoga & Wellness
+State of incorporation: OR
+Date incorporated: 2014-01-01
+
+================================================================================
+                        INCOME
+================================================================================
+
+1a. Gross receipts or sales                            $567,149.85
+1b. Returns and allowances                             $0.00
+1c. Balance (subtract 1b from 1a)                      $567,149.85
+2.  Cost of goods sold (Schedule A)                    $56,333.12
+                                                       ─────────────────
+3.  Gross profit (subtract line 2 from 1c)             $510,816.73
+                                                       ─────────────────
+4.  Net gain (loss) from Form 4797                     $0.00
+5.  Other income                                       $0.00
+                                                       ─────────────────
+6.  TOTAL INCOME (add lines 3, 4, and 5)               $510,816.73
+                                                       =================
+
+================================================================================
+                        DEDUCTIONS
+================================================================================
+
+7.  Compensation of officers                           $58,413.05
+8.  Salaries and wages                                 $136,297.11
+9.  Repairs and maintenance                            $13,842.53
+10. Bad debts                                          $4,386.54
+11. Rents                                              $53,155.78
+12. Taxes and licenses                                 $9,097.57
+13. Interest                                           $6,815.97
+14. Depreciation                                       $19,315.80
+15. Advertising                                        $24,503.08
+16. Pension, profit-sharing, etc., plans               $6,954.40
+17. Employee benefit programs                          $11,983.47
+18. Other deductions                                   $17,153.66
+
+                                                       ─────────────────
+19. TOTAL DEDUCTIONS (add lines 7 through 18)          $350,995.75
+                                                       =================
+
+20. ORDINARY BUSINESS INCOME (LOSS)                    $159,820.99
+    (subtract line 19 from line 6)                     =================
+
+================================================================================
+                    SCHEDULE K - DISTRIBUTIVE SHARE ITEMS
+================================================================================
+
+1.  Ordinary business income (loss) (page 1, line 20)  $159,820.99
+2.  Net rental real estate income (loss)               $0.00
+3.  Other net rental income (loss)                     $0.00
+4.  Interest income                                    $937.57
+5.  Dividends                                          $0.00
+6.  Royalties                                          $0.00
+7.  Net short-term capital gain (loss)                 $0.00
+8.  Net long-term capital gain (loss)                  $0.00
+9.  Other income (loss)                                $0.00
+
+================================================================================
+                    SCHEDULE L - BALANCE SHEETS
+================================================================================
+
+ASSETS                                    Beginning of Year    End of Year
+────────────────────────────────────────────────────────────────────────────
+Cash                                      $      32,892.61    $      36,547.35
+Accounts receivable                       $      75,007.81    $      83,342.02
+Inventory                                 $       8,541.12    $       9,490.13
+Other current assets                      $      17,702.15    $      19,669.05
+Fixed assets (net)                        $     136,498.51    $     120,732.69
+Other assets                              $           0.00    $           0.00
+                                          ─────────────────    ─────────────────
+TOTAL ASSETS                              $     242,803.11    $     269,781.24
+                                          =================    =================
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+────────────────────────────────────────────────────────────────────────────
+Accounts payable                          $      47,157.73    $      52,397.48
+Current portion long-term debt            $      15,000.00    $      15,000.00
+Other current liabilities                 $      21,940.80    $      24,378.66
+Long-term debt                            $     148,500.00    $     135,000.00
+Capital stock                             $       1,000.00    $       1,000.00
+Retained earnings                         $       9,204.58    $      42,005.09
+                                          ─────────────────    ─────────────────
+TOTAL LIABILITIES & EQUITY                $     242,803.11    $     269,781.24
+                                          =================    =================
+
+================================================================================
+
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 11510H                                        Form 1120-S (2023)
+
+================================================================================

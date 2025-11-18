@@ -1,0 +1,107 @@
+
+================================================================================
+                        U.S. Income Tax Return for an S Corporation
+                               Form 1120-S
+                          Tax Year 2023
+================================================================================
+
+Department of the Treasury
+Internal Revenue Service
+
+A.  S election effective date: 2019-01-01
+B.  Business activity code: 1711
+C.  Employer identification number: 64-6831782
+
+Corporation Name: Premier Plumbing Solutions LLC
+State of incorporation: AZ
+Date incorporated: 2019-01-01
+
+================================================================================
+                        INCOME
+================================================================================
+
+1a. Gross receipts or sales                            $919,664.02
+1b. Returns and allowances                             $0.00
+1c. Balance (subtract 1b from 1a)                      $919,664.02
+2.  Cost of goods sold (Schedule A)                    $271,138.65
+                                                       ─────────────────
+3.  Gross profit (subtract line 2 from 1c)             $648,525.37
+                                                       ─────────────────
+4.  Net gain (loss) from Form 4797                     $0.00
+5.  Other income                                       $0.00
+                                                       ─────────────────
+6.  TOTAL INCOME (add lines 3, 4, and 5)               $648,525.37
+                                                       =================
+
+================================================================================
+                        DEDUCTIONS
+================================================================================
+
+7.  Compensation of officers                           $74,788.76
+8.  Salaries and wages                                 $174,507.11
+9.  Repairs and maintenance                            $14,482.11
+10. Bad debts                                          $6,664.80
+11. Rents                                              $117,231.16
+12. Taxes and licenses                                 $16,588.02
+13. Interest                                           $12,937.75
+14. Depreciation                                       $43,557.88
+15. Advertising                                        $22,633.36
+16. Pension, profit-sharing, etc., plans               $14,015.33
+17. Employee benefit programs                          $23,075.75
+18. Other deductions                                   $52,053.82
+
+                                                       ─────────────────
+19. TOTAL DEDUCTIONS (add lines 7 through 18)          $560,191.96
+                                                       =================
+
+20. ORDINARY BUSINESS INCOME (LOSS)                    $88,333.41
+    (subtract line 19 from line 6)                     =================
+
+================================================================================
+                    SCHEDULE K - DISTRIBUTIVE SHARE ITEMS
+================================================================================
+
+1.  Ordinary business income (loss) (page 1, line 20)  $88,333.41
+2.  Net rental real estate income (loss)               $0.00
+3.  Other net rental income (loss)                     $0.00
+4.  Interest income                                    $741.83
+5.  Dividends                                          $0.00
+6.  Royalties                                          $0.00
+7.  Net short-term capital gain (loss)                 $0.00
+8.  Net long-term capital gain (loss)                  $0.00
+9.  Other income (loss)                                $0.00
+
+================================================================================
+                    SCHEDULE L - BALANCE SHEETS
+================================================================================
+
+ASSETS                                    Beginning of Year    End of Year
+────────────────────────────────────────────────────────────────────────────
+Cash                                      $     102,108.99    $     113,454.43
+Accounts receivable                       $     115,935.41    $     128,817.12
+Inventory                                 $      45,528.08    $      50,586.76
+Other current assets                      $      19,183.25    $      21,314.72
+Fixed assets (net)                        $     271,973.46    $     248,894.56
+Other assets                              $           0.00    $           0.00
+                                          ─────────────────    ─────────────────
+TOTAL ASSETS                              $     506,760.83    $     563,067.59
+                                          =================    =================
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+────────────────────────────────────────────────────────────────────────────
+Accounts payable                          $      68,627.99    $      76,253.32
+Current portion long-term debt            $      18,000.00    $      18,000.00
+Other current liabilities                 $      24,585.94    $      27,317.71
+Long-term debt                            $     178,200.00    $     162,000.00
+Capital stock                             $       1,000.00    $       1,000.00
+Retained earnings                         $     216,346.91    $     278,496.56
+                                          ─────────────────    ─────────────────
+TOTAL LIABILITIES & EQUITY                $     506,760.83    $     563,067.59
+                                          =================    =================
+
+================================================================================
+
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 11510H                                        Form 1120-S (2023)
+
+================================================================================

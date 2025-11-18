@@ -1,0 +1,64 @@
+
+================================================================================
+                        Schedule K-1
+                      (Form 1120-S)
+        Shareholder's Share of Income, Deductions, Credits, etc.
+================================================================================
+
+                          Tax Year 2023
+
+Department of the Treasury
+Internal Revenue Service
+
+Part I - Information About the Corporation
+
+Corporation's name: Bright Minds Daycare Center
+Corporation's EIN: 49-8201183
+
+Part II - Information About the Shareholder
+
+Shareholder's name: Jennifer Davis
+Shareholder's SSN: 582-31-8722
+Shareholder's percentage of stock ownership: 80.0%
+
+================================================================================
+            Part III - Shareholder's Share of Current Year Income,
+                      Deductions, Credits, and Other Items
+================================================================================
+
+                        INCOME (LOSS)
+
+1.  Ordinary business income (loss)                    $108,933.83
+2.  Net rental real estate income (loss)               $0.00
+3.  Other net rental income (loss)                     $0.00
+4.  Interest income                                    $1,077.46
+5.  Ordinary dividends                                 $0.00
+6.  Royalties                                          $0.00
+7.  Net short-term capital gain (loss)                 $0.00
+8.  Net long-term capital gain (loss)                  $0.00
+
+                        DEDUCTIONS
+
+9.  Section 179 deduction                              $0.00
+10. Charitable contributions                           $0.00
+11. Investment interest expense                        $0.00
+
+================================================================================
+            SHAREHOLDER'S CAPITAL ACCOUNT ANALYSIS
+================================================================================
+
+Beginning capital account                              $220,795.53
+Capital contributed during the year                    $0.00
+Current year net income (loss)                         $108,933.83
+Other increase (decrease)                              $0.00
+Withdrawals and distributions                          $63,979.97
+                                                       ─────────────────
+Ending capital account                                 $279,195.03
+                                                       =================
+
+================================================================================
+
+For Paperwork Reduction Act Notice, see instructions for Form 1120-S.
+Cat. No. 11520D                            Schedule K-1 (Form 1120-S) 2023
+
+================================================================================

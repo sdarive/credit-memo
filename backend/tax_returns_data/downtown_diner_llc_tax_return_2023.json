@@ -1,0 +1,149 @@
+{
+  "business_info": {
+    "Business Name": "Downtown Diner LLC",
+    "EIN": "65-5120387",
+    "Entity Type": "S-Corp",
+    "Industry": "Restaurant",
+    "SIC Code": "5812",
+    "Website": "www.downtowndiner.com",
+    "State": "NY",
+    "Formation Year": "2020",
+    "Years in Business": "4",
+    "Loan Amount": "$400,000",
+    "Creditworthiness": "OK",
+    "Owner 1 Name": "Sarah Williams",
+    "Owner 1 SSN": "121-47-2616",
+    "Owner 1 Ownership %": "100%",
+    "Owner 1 Phone": "555-789-0123",
+    "Owner 1 Email": "sarah@downtowndiner.com",
+    "Owner 2 Name": "",
+    "Owner 2 SSN": "",
+    "Owner 2 Ownership %": "",
+    "Owner 2 Phone": "",
+    "Owner 2 Email": "",
+    "Folder Name": "downtown_diner_llc",
+    "Document Count": "12"
+  },
+  "tax_year": 2023,
+  "annual_revenue": 1131083.0,
+  "forms": {
+    "form_1120s": {
+      "form": "1120-S",
+      "tax_year": 2023,
+      "corporation_name": "Downtown Diner LLC",
+      "ein": "65-5120387",
+      "business_code": "5812",
+      "date_incorporated": "2020-01-01",
+      "state_of_incorporation": "NY",
+      "gross_receipts": 1131083.0,
+      "returns_allowances": 0,
+      "cost_of_goods_sold": 347248.93,
+      "gross_profit": 783834.07,
+      "net_gain_loss": 0,
+      "other_income": 0,
+      "total_income": 783834.07,
+      "compensation_officers": 105852.34,
+      "salaries_wages": 246988.8,
+      "repairs_maintenance": 28358.28,
+      "bad_debts": 3174.08,
+      "rents": 109810.06,
+      "taxes_licenses": 17885.46,
+      "interest": 23079.03,
+      "depreciation": 37085.07,
+      "advertising": 30102.17,
+      "pension_plans": 15040.25,
+      "employee_benefits": 21021.69,
+      "other_deductions": 41360.28,
+      "total_deductions": 665030.06,
+      "ordinary_business_income": 118804.02,
+      "schedule_k": {
+        "ordinary_income": 118804.02,
+        "rental_real_estate_income": 0,
+        "other_rental_income": 0,
+        "interest_income": 1373.18,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0,
+        "other_income": 0
+      },
+      "balance_sheet": {
+        "beginning_of_year": {
+          "assets": {
+            "cash": 69782.85,
+            "accounts_receivable": 91587.33,
+            "inventory": 52664.78,
+            "other_current_assets": 37799.42,
+            "fixed_assets": 519227.18,
+            "accumulated_depreciation": 102258.38,
+            "other_assets": 0,
+            "total_assets": 596428.78
+          },
+          "liabilities_equity": {
+            "accounts_payable": 61615.55,
+            "current_portion_long_term_debt": 40000.0,
+            "other_current_liabilities": 48900.7,
+            "long_term_debt": 396000.0,
+            "capital_stock": 1000,
+            "retained_earnings": 48912.53,
+            "total_liabilities_equity": 596428.78
+          }
+        },
+        "end_of_year": {
+          "assets": {
+            "cash": 77536.5,
+            "accounts_receivable": 101763.7,
+            "inventory": 58516.43,
+            "other_current_assets": 41999.35,
+            "fixed_assets": 519227.18,
+            "accumulated_depreciation": 136344.51,
+            "other_assets": 0,
+            "total_assets": 662698.64
+          },
+          "liabilities_equity": {
+            "accounts_payable": 68461.72,
+            "current_portion_long_term_debt": 40000.0,
+            "other_current_liabilities": 54334.12,
+            "long_term_debt": 360000.0,
+            "capital_stock": 1000,
+            "retained_earnings": 138902.81,
+            "total_liabilities_equity": 662698.64
+          }
+        }
+      }
+    },
+    "schedule_k1_owner1": {
+      "form": "Schedule K-1 (Form 1120-S)",
+      "tax_year": 2023,
+      "corporation_name": "Downtown Diner LLC",
+      "corporation_ein": "65-5120387",
+      "shareholder": {
+        "name": "Sarah Williams",
+        "ssn": "121-47-2616",
+        "ownership_percentage": 100.0
+      },
+      "shareholder_share_of_income": {
+        "ordinary_business_income": 118804.02,
+        "net_rental_real_estate_income": 0,
+        "other_net_rental_income": 0,
+        "interest_income": 1373.18,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0
+      },
+      "shareholder_share_of_deductions": {
+        "section_179_deduction": 0,
+        "charitable_contributions": 0,
+        "investment_interest": 0
+      },
+      "shareholder_capital_account": {
+        "beginning_capital": 48912.53,
+        "capital_contributed": 0,
+        "current_year_income": 118804.02,
+        "withdrawals_distributions": 53597.06,
+        "ending_capital": 138902.81
+      }
+    }
+  }
+}

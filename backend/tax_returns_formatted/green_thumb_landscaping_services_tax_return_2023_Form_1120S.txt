@@ -1,0 +1,107 @@
+
+================================================================================
+                        U.S. Income Tax Return for an S Corporation
+                               Form 1120-S
+                          Tax Year 2023
+================================================================================
+
+Department of the Treasury
+Internal Revenue Service
+
+A.  S election effective date: 2018-01-01
+B.  Business activity code: 0782
+C.  Employer identification number: 14-3284136
+
+Corporation Name: Green Thumb Landscaping Services
+State of incorporation: FL
+Date incorporated: 2018-01-01
+
+================================================================================
+                        INCOME
+================================================================================
+
+1a. Gross receipts or sales                            $1,706,393.80
+1b. Returns and allowances                             $0.00
+1c. Balance (subtract 1b from 1a)                      $1,706,393.80
+2.  Cost of goods sold (Schedule A)                    $430,621.04
+                                                       ─────────────────
+3.  Gross profit (subtract line 2 from 1c)             $1,275,772.76
+                                                       ─────────────────
+4.  Net gain (loss) from Form 4797                     $0.00
+5.  Other income                                       $0.00
+                                                       ─────────────────
+6.  TOTAL INCOME (add lines 3, 4, and 5)               $1,275,772.76
+                                                       =================
+
+================================================================================
+                        DEDUCTIONS
+================================================================================
+
+7.  Compensation of officers                           $158,073.76
+8.  Salaries and wages                                 $368,838.77
+9.  Repairs and maintenance                            $47,743.03
+10. Bad debts                                          $14,793.84
+11. Rents                                              $253,741.44
+12. Taxes and licenses                                 $22,338.26
+13. Interest                                           $19,709.11
+14. Depreciation                                       $47,965.78
+15. Advertising                                        $70,258.07
+16. Pension, profit-sharing, etc., plans               $18,459.98
+17. Employee benefit programs                          $46,893.56
+18. Other deductions                                   $95,683.42
+
+                                                       ─────────────────
+19. TOTAL DEDUCTIONS (add lines 7 through 18)          $1,122,143.29
+                                                       =================
+
+20. ORDINARY BUSINESS INCOME (LOSS)                    $153,629.48
+    (subtract line 19 from line 6)                     =================
+
+================================================================================
+                    SCHEDULE K - DISTRIBUTIVE SHARE ITEMS
+================================================================================
+
+1.  Ordinary business income (loss) (page 1, line 20)  $153,629.48
+2.  Net rental real estate income (loss)               $0.00
+3.  Other net rental income (loss)                     $0.00
+4.  Interest income                                    $1,653.59
+5.  Dividends                                          $0.00
+6.  Royalties                                          $0.00
+7.  Net short-term capital gain (loss)                 $0.00
+8.  Net long-term capital gain (loss)                  $0.00
+9.  Other income (loss)                                $0.00
+
+================================================================================
+                    SCHEDULE L - BALANCE SHEETS
+================================================================================
+
+ASSETS                                    Beginning of Year    End of Year
+────────────────────────────────────────────────────────────────────────────
+Cash                                      $     117,714.67    $     130,794.07
+Accounts receivable                       $     145,665.47    $     161,850.52
+Inventory                                 $      56,836.62    $      63,151.80
+Other current assets                      $      73,498.45    $      81,664.94
+Fixed assets (net)                        $     591,480.17    $     555,284.39
+Other assets                              $           0.00    $           0.00
+                                          ─────────────────    ─────────────────
+TOTAL ASSETS                              $     893,471.15    $     992,745.73
+                                          =================    =================
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+────────────────────────────────────────────────────────────────────────────
+Accounts payable                          $     137,921.91    $     153,246.57
+Current portion long-term debt            $      30,000.00    $      30,000.00
+Other current liabilities                 $      73,082.19    $      81,202.43
+Long-term debt                            $     297,000.00    $     270,000.00
+Capital stock                             $       1,000.00    $       1,000.00
+Retained earnings                         $     354,467.06    $     457,296.73
+                                          ─────────────────    ─────────────────
+TOTAL LIABILITIES & EQUITY                $     893,471.15    $     992,745.73
+                                          =================    =================
+
+================================================================================
+
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 11510H                                        Form 1120-S (2023)
+
+================================================================================

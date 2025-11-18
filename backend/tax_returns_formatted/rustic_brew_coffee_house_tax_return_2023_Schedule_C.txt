@@ -1,0 +1,95 @@
+
+================================================================================
+                        SCHEDULE C
+                (Form 1040)
+         Profit or Loss From Business
+         (Sole Proprietorship)
+================================================================================
+
+                          Tax Year 2023
+
+Department of the Treasury
+Internal Revenue Service (99)
+
+Name of proprietor: Kevin Murphy
+Social Security Number: 849-48-4256
+
+A.  Principal business or profession: Coffee Shop
+B.  Business name: Rustic Brew Coffee House
+C.  Business address: MI
+D.  Employer ID number (EIN): 51-4917081
+E.  Business code: 5812
+F.  Accounting method: Cash
+G.  Did you "materially participate" in the operation of this business? Yes [X] No [ ]
+
+================================================================================
+                            PART I - INCOME
+================================================================================
+
+1.  Gross receipts or sales                            $467,720.31
+2.  Returns and allowances                             $0.00
+3.  Subtract line 2 from line 1                        $467,720.31
+4.  Cost of goods sold (from Part III)                 $172,954.72
+                                                       ─────────────────
+5.  Gross profit (subtract line 4 from line 3)         $294,765.59
+                                                       ─────────────────
+6.  Other income                                       $0.00
+                                                       ─────────────────
+7.  GROSS INCOME (add lines 5 and 6)                   $294,765.59
+                                                       =================
+
+================================================================================
+                        PART II - EXPENSES
+================================================================================
+
+8.  Advertising                                        $9,532.15
+9.  Car and truck expenses                             $0.00
+10. Commissions and fees                               $0.00
+11. Contract labor                                     $45,654.20
+12. Depletion                                          $0.00
+13. Depreciation                                       $19,060.42
+14. Employee benefit programs                          $7,609.03
+15. Insurance (other than health)                      $18,276.89
+16. Interest:
+    a. Mortgage (paid to banks, etc.)                  $0.00
+    b. Other                                           $7,865.93
+17. Legal and professional services                    $2,443.19
+18. Office expense                                     $6,919.58
+19. Pension and profit-sharing plans                   $0.00
+20. Rent or lease:
+    a. Vehicles, machinery, equipment                  $0.00
+    b. Other business property                         $52,937.72
+21. Repairs and maintenance                            $12,422.61
+22. Supplies                                           $3,459.79
+23. Taxes and licenses                                 $8,358.61
+24. Travel and meals:
+    a. Travel                                          $3,719.10
+    b. Deductible meals                                $7,156.51
+25. Utilities                                          $20,609.30
+26. Wages (less employment credits)                    $98,917.42
+27. Other expenses                                     $15,657.81
+
+                                                       ─────────────────
+28. Total expenses (add lines 8 through 27)            $480,551.85
+                                                       =================
+
+================================================================================
+                            NET PROFIT OR LOSS
+================================================================================
+
+29. Tentative profit or (loss) (line 7 minus 28)       $(12,831.54)
+
+30. Expenses for business use of your home             $0.00
+
+31. NET PROFIT OR (LOSS)                               $(12,831.54)
+    (subtract line 30 from line 29)                    =================
+
+    If a profit, enter on Form 1040, line 8, and also on Schedule SE, line 2.
+    If a loss, you must go to line 32.
+
+================================================================================
+
+For Paperwork Reduction Act Notice, see your tax return instructions.
+Cat. No. 11334P                                        Schedule C (Form 1040)
+
+================================================================================

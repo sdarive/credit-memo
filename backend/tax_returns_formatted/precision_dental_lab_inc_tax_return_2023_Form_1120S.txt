@@ -1,0 +1,107 @@
+
+================================================================================
+                        U.S. Income Tax Return for an S Corporation
+                               Form 1120-S
+                          Tax Year 2023
+================================================================================
+
+Department of the Treasury
+Internal Revenue Service
+
+A.  S election effective date: 2014-01-01
+B.  Business activity code: 8072
+C.  Employer identification number: 70-4465983
+
+Corporation Name: Precision Dental Lab Inc
+State of incorporation: NJ
+Date incorporated: 2014-01-01
+
+================================================================================
+                        INCOME
+================================================================================
+
+1a. Gross receipts or sales                            $3,876,804.26
+1b. Returns and allowances                             $0.00
+1c. Balance (subtract 1b from 1a)                      $3,876,804.26
+2.  Cost of goods sold (Schedule A)                    $871,518.63
+                                                       ─────────────────
+3.  Gross profit (subtract line 2 from 1c)             $3,005,285.63
+                                                       ─────────────────
+4.  Net gain (loss) from Form 4797                     $0.00
+5.  Other income                                       $0.00
+                                                       ─────────────────
+6.  TOTAL INCOME (add lines 3, 4, and 5)               $3,005,285.63
+                                                       =================
+
+================================================================================
+                        DEDUCTIONS
+================================================================================
+
+7.  Compensation of officers                           $375,453.36
+8.  Salaries and wages                                 $876,057.84
+9.  Repairs and maintenance                            $100,422.46
+10. Bad debts                                          $19,298.88
+11. Rents                                              $336,271.44
+12. Taxes and licenses                                 $41,244.73
+13. Interest                                           $30,820.61
+14. Depreciation                                       $128,596.87
+15. Advertising                                        $95,937.27
+16. Pension, profit-sharing, etc., plans               $69,789.77
+17. Employee benefit programs                          $123,896.80
+18. Other deductions                                   $187,093.83
+
+                                                       ─────────────────
+19. TOTAL DEDUCTIONS (add lines 7 through 18)          $2,346,011.71
+                                                       =================
+
+20. ORDINARY BUSINESS INCOME (LOSS)                    $659,273.92
+    (subtract line 19 from line 6)                     =================
+
+================================================================================
+                    SCHEDULE K - DISTRIBUTIVE SHARE ITEMS
+================================================================================
+
+1.  Ordinary business income (loss) (page 1, line 20)  $659,273.92
+2.  Net rental real estate income (loss)               $0.00
+3.  Other net rental income (loss)                     $0.00
+4.  Interest income                                    $595.68
+5.  Dividends                                          $0.00
+6.  Royalties                                          $0.00
+7.  Net short-term capital gain (loss)                 $0.00
+8.  Net long-term capital gain (loss)                  $0.00
+9.  Other income (loss)                                $0.00
+
+================================================================================
+                    SCHEDULE L - BALANCE SHEETS
+================================================================================
+
+ASSETS                                    Beginning of Year    End of Year
+────────────────────────────────────────────────────────────────────────────
+Cash                                      $     477,926.85    $     531,029.83
+Accounts receivable                       $     514,990.14    $     572,211.26
+Inventory                                 $     147,654.20    $     164,060.22
+Other current assets                      $     104,843.58    $     116,492.87
+Fixed assets (net)                        $   1,056,698.05    $     926,588.49
+Other assets                              $           0.00    $           0.00
+                                          ─────────────────    ─────────────────
+TOTAL ASSETS                              $   2,079,344.41    $   2,310,382.68
+                                          =================    =================
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+────────────────────────────────────────────────────────────────────────────
+Accounts payable                          $     348,537.54    $     387,263.93
+Current portion long-term debt            $      45,000.00    $      45,000.00
+Other current liabilities                 $     143,946.64    $     159,940.71
+Long-term debt                            $     445,500.00    $     405,000.00
+Capital stock                             $       1,000.00    $       1,000.00
+Retained earnings                         $   1,095,360.24    $   1,312,178.04
+                                          ─────────────────    ─────────────────
+TOTAL LIABILITIES & EQUITY                $   2,079,344.41    $   2,310,382.68
+                                          =================    =================
+
+================================================================================
+
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 11510H                                        Form 1120-S (2023)
+
+================================================================================

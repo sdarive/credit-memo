@@ -1,0 +1,21 @@
+Business Name,Entity Type,Industry,Revenue,Net Income,EIN,Forms Generated,Credit Rating
+AutoCare Collision Center,Sole Proprietorship,Auto Body Repair,"$2,279,728","$42,885",59-9839976,"Form 1040, Schedule C",EXCELLENT
+Coastal Seafood Market,Sole Proprietorship,Seafood Retail,"$939,832","$82,156",89-4014196,"Form 1040, Schedule C",BAD
+Fresh Start Laundromat,Sole Proprietorship,Laundry Services,"$1,175,640","$247,086",75-9588286,"Form 1040, Schedule C",BAD
+Heritage Furniture Restoration,Sole Proprietorship,Furniture Repair,"$1,250,630","$409,706",93-5704691,"Form 1040, Schedule C",OK
+Paws & Claws Pet Grooming,Sole Proprietorship,Pet Grooming Services,"$532,974","$136,673",95-6901142,"Form 1040, Schedule C",BAD
+QuickPrint Copy Center,Sole Proprietorship,Printing Services,"$534,155","$101,149",35-8892164,"Form 1040, Schedule C",OK
+Rustic Brew Coffee House,Sole Proprietorship,Coffee Shop,"$467,720","$39,396",51-4917081,"Form 1040, Schedule C",UGLY
+Bright Minds Daycare Center,S-Corp,Child Care Services,"$1,046,532","$157,664",49-8201183,"Form 1120-S, K-1 (2 owners)",GOOD
+Downtown Diner LLC,S-Corp,Restaurant,"$1,131,083","$115,308",65-5120387,"Form 1120-S, K-1 (1 owner)",OK
+Elegant Events Catering,S-Corp,Catering Services,"$1,182,879","$186,254",96-2629236,"Form 1120-S, K-1 (2 owners)",GOOD
+Green Thumb Landscaping Services,S-Corp,Landscaping Services,"$1,706,394","$264,394",14-3284136,"Form 1120-S, K-1 (2 owners)",GOOD
+Mountain View HVAC Services,S-Corp,HVAC Services,"$1,590,094","$383,863",47-8992746,"Form 1120-S, K-1 (1 owner)",GOOD
+Precision Dental Lab Inc,S-Corp,Dental Laboratory,"$3,876,804","$659,274",70-4465983,"Form 1120-S, K-1 (2 owners)",EXCELLENT
+Premier Plumbing Solutions LLC,S-Corp,Plumbing Services,"$919,664","$211,323",64-6831782,"Form 1120-S, K-1 (1 owner)",EXCELLENT
+Sparkle Clean Janitorial Services,S-Corp,Janitorial Services,"$511,038","$57,327",83-9752099,"Form 1120-S, K-1 (1 owner)",BAD
+Sunset Yoga & Wellness,S-Corp,Yoga Studio,"$567,150","$130,444",32-4536842,"Form 1120-S, K-1 (1 owner)",UGLY
+Elite Security Systems LLC,LLC,Security Services,"$1,876,983","$292,533",39-2761098,Form 1065,GOOD
+Sunrise Bakery LLC,LLC,Retail Bakery,"$1,690,136","$178,324",48-3865685,Form 1065,EXCELLENT
+TechFix Computer Repair Inc,LLC,Computer Repair Services,"$768,814","$156,015",12-7801944,Form 1065,GOOD
+Urban Fitness Studio,LLC,Fitness Center,"$1,885,612","$467,373",71-8724870,Form 1065,OK

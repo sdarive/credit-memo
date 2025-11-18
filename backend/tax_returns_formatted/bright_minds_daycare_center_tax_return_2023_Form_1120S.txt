@@ -1,0 +1,107 @@
+
+================================================================================
+                        U.S. Income Tax Return for an S Corporation
+                               Form 1120-S
+                          Tax Year 2023
+================================================================================
+
+Department of the Treasury
+Internal Revenue Service
+
+A.  S election effective date: 2015-01-01
+B.  Business activity code: 8351
+C.  Employer identification number: 49-8201183
+
+Corporation Name: Bright Minds Daycare Center
+State of incorporation: GA
+Date incorporated: 2015-01-01
+
+================================================================================
+                        INCOME
+================================================================================
+
+1a. Gross receipts or sales                            $1,046,531.57
+1b. Returns and allowances                             $0.00
+1c. Balance (subtract 1b from 1a)                      $1,046,531.57
+2.  Cost of goods sold (Schedule A)                    $160,001.78
+                                                       ─────────────────
+3.  Gross profit (subtract line 2 from 1c)             $886,529.79
+                                                       ─────────────────
+4.  Net gain (loss) from Form 4797                     $0.00
+5.  Other income                                       $0.00
+                                                       ─────────────────
+6.  TOTAL INCOME (add lines 3, 4, and 5)               $886,529.79
+                                                       =================
+
+================================================================================
+                        DEDUCTIONS
+================================================================================
+
+7.  Compensation of officers                           $128,241.89
+8.  Salaries and wages                                 $299,231.07
+9.  Repairs and maintenance                            $11,196.39
+10. Bad debts                                          $9,438.54
+11. Rents                                              $129,216.75
+12. Taxes and licenses                                 $12,815.47
+13. Interest                                           $11,470.66
+14. Depreciation                                       $33,382.19
+15. Advertising                                        $23,781.73
+16. Pension, profit-sharing, etc., plans               $20,793.69
+17. Employee benefit programs                          $42,320.08
+18. Other deductions                                   $35,807.67
+
+                                                       ─────────────────
+19. TOTAL DEDUCTIONS (add lines 7 through 18)          $750,362.50
+                                                       =================
+
+20. ORDINARY BUSINESS INCOME (LOSS)                    $136,167.29
+    (subtract line 19 from line 6)                     =================
+
+================================================================================
+                    SCHEDULE K - DISTRIBUTIVE SHARE ITEMS
+================================================================================
+
+1.  Ordinary business income (loss) (page 1, line 20)  $136,167.29
+2.  Net rental real estate income (loss)               $0.00
+3.  Other net rental income (loss)                     $0.00
+4.  Interest income                                    $1,346.83
+5.  Dividends                                          $0.00
+6.  Royalties                                          $0.00
+7.  Net short-term capital gain (loss)                 $0.00
+8.  Net long-term capital gain (loss)                  $0.00
+9.  Other income (loss)                                $0.00
+
+================================================================================
+                    SCHEDULE L - BALANCE SHEETS
+================================================================================
+
+ASSETS                                    Beginning of Year    End of Year
+────────────────────────────────────────────────────────────────────────────
+Cash                                      $     129,349.84    $     143,722.05
+Accounts receivable                       $      85,554.90    $      95,061.00
+Inventory                                 $      24,964.58    $      27,738.42
+Other current assets                      $      41,407.62    $      46,008.46
+Fixed assets (net)                        $     362,686.88    $     340,229.98
+Other assets                              $           0.00    $           0.00
+                                          ─────────────────    ─────────────────
+TOTAL ASSETS                              $     587,483.93    $     652,759.92
+                                          =================    =================
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+────────────────────────────────────────────────────────────────────────────
+Accounts payable                          $      49,295.87    $      54,773.19
+Current portion long-term debt            $      20,000.00    $      20,000.00
+Other current liabilities                 $      43,193.65    $      47,992.94
+Long-term debt                            $     198,000.00    $     180,000.00
+Capital stock                             $       1,000.00    $       1,000.00
+Retained earnings                         $     275,994.41    $     348,993.79
+                                          ─────────────────    ─────────────────
+TOTAL LIABILITIES & EQUITY                $     587,483.93    $     652,759.92
+                                          =================    =================
+
+================================================================================
+
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 11510H                                        Form 1120-S (2023)
+
+================================================================================

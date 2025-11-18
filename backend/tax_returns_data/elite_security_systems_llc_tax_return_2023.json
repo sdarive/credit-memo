@@ -1,0 +1,62 @@
+{
+  "business_info": {
+    "Business Name": "Elite Security Systems LLC",
+    "EIN": "39-2761098",
+    "Entity Type": "LLC",
+    "Industry": "Security Services",
+    "SIC Code": "7382",
+    "Website": "www.elitesecuritysystems.com",
+    "State": "VA",
+    "Formation Year": "2016",
+    "Years in Business": "8",
+    "Loan Amount": "$375,000",
+    "Creditworthiness": "GOOD",
+    "Owner 1 Name": "Mark Robinson",
+    "Owner 1 SSN": "253-32-3309",
+    "Owner 1 Ownership %": "100%",
+    "Owner 1 Phone": "555-234-5671",
+    "Owner 1 Email": "mark@elitesecurity.com",
+    "Owner 2 Name": "",
+    "Owner 2 SSN": "",
+    "Owner 2 Ownership %": "",
+    "Owner 2 Phone": "",
+    "Owner 2 Email": "",
+    "Folder Name": "elite_security_systems_llc",
+    "Document Count": "12"
+  },
+  "tax_year": 2023,
+  "annual_revenue": 1876982.57,
+  "forms": {
+    "form_1065": {
+      "form": "1065",
+      "tax_year": 2023,
+      "partnership_name": "Elite Security Systems LLC",
+      "ein": "39-2761098",
+      "business_code": "7382",
+      "date_business_started": "2016-01-01",
+      "gross_receipts": 1876982.57,
+      "returns_allowances": 0,
+      "cost_of_goods_sold": 443511.76,
+      "gross_profit": 1433470.81,
+      "other_income": 0,
+      "total_income": 1433470.81,
+      "salaries_wages": 1123202.91,
+      "guaranteed_payments": 449281.16,
+      "repairs_maintenance": 41813.43,
+      "bad_debts": 12236.74,
+      "rent": 272868.12,
+      "taxes_licenses": 35358.93,
+      "interest": 72857.67,
+      "depreciation": 52835.28,
+      "advertising": 45857.93,
+      "other_deductions": 182620.08,
+      "total_deductions": 2267330.41,
+      "ordinary_income": -833859.6,
+      "schedule_k": {
+        "ordinary_income": -833859.6,
+        "guaranteed_payments": 449281.16,
+        "interest_income": 1309.11
+      }
+    }
+  }
+}

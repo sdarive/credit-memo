@@ -1,0 +1,182 @@
+{
+  "business_info": {
+    "Business Name": "Green Thumb Landscaping Services",
+    "EIN": "14-3284136",
+    "Entity Type": "S-Corp",
+    "Industry": "Landscaping Services",
+    "SIC Code": "0782",
+    "Website": "www.greenthumblandscape.com",
+    "State": "FL",
+    "Formation Year": "2018",
+    "Years in Business": "6",
+    "Loan Amount": "$300,000",
+    "Creditworthiness": "GOOD",
+    "Owner 1 Name": "Robert Johnson",
+    "Owner 1 SSN": "828-93-5039",
+    "Owner 1 Ownership %": "75%",
+    "Owner 1 Phone": "555-678-9012",
+    "Owner 1 Email": "robert@greenthumb.com",
+    "Owner 2 Name": "Lisa Johnson",
+    "Owner 2 SSN": "774-87-2943",
+    "Owner 2 Ownership %": "25%",
+    "Owner 2 Phone": "555-678-9013",
+    "Owner 2 Email": "lisa@greenthumb.com",
+    "Folder Name": "green_thumb_landscaping_services",
+    "Document Count": "16"
+  },
+  "tax_year": 2023,
+  "annual_revenue": 1706393.8,
+  "forms": {
+    "form_1120s": {
+      "form": "1120-S",
+      "tax_year": 2023,
+      "corporation_name": "Green Thumb Landscaping Services",
+      "ein": "14-3284136",
+      "business_code": "0782",
+      "date_incorporated": "2018-01-01",
+      "state_of_incorporation": "FL",
+      "gross_receipts": 1706393.8,
+      "returns_allowances": 0,
+      "cost_of_goods_sold": 430621.04,
+      "gross_profit": 1275772.76,
+      "net_gain_loss": 0,
+      "other_income": 0,
+      "total_income": 1275772.76,
+      "compensation_officers": 158073.76,
+      "salaries_wages": 368838.77,
+      "repairs_maintenance": 47743.03,
+      "bad_debts": 14793.84,
+      "rents": 253741.44,
+      "taxes_licenses": 22338.26,
+      "interest": 19709.11,
+      "depreciation": 47965.78,
+      "advertising": 70258.07,
+      "pension_plans": 18459.98,
+      "employee_benefits": 46893.56,
+      "other_deductions": 95683.42,
+      "total_deductions": 1122143.29,
+      "ordinary_business_income": 153629.48,
+      "schedule_k": {
+        "ordinary_income": 153629.48,
+        "rental_real_estate_income": 0,
+        "other_rental_income": 0,
+        "interest_income": 1653.59,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0,
+        "other_income": 0
+      },
+      "balance_sheet": {
+        "beginning_of_year": {
+          "assets": {
+            "cash": 117714.67,
+            "accounts_receivable": 145665.47,
+            "inventory": 56836.62,
+            "other_current_assets": 73498.45,
+            "fixed_assets": 700067.49,
+            "accumulated_depreciation": 108587.32,
+            "other_assets": 0,
+            "total_assets": 893471.15
+          },
+          "liabilities_equity": {
+            "accounts_payable": 137921.91,
+            "current_portion_long_term_debt": 30000.0,
+            "other_current_liabilities": 73082.19,
+            "long_term_debt": 297000.0,
+            "capital_stock": 1000,
+            "retained_earnings": 354467.06,
+            "total_liabilities_equity": 893471.15
+          }
+        },
+        "end_of_year": {
+          "assets": {
+            "cash": 130794.07,
+            "accounts_receivable": 161850.52,
+            "inventory": 63151.8,
+            "other_current_assets": 81664.94,
+            "fixed_assets": 700067.49,
+            "accumulated_depreciation": 144783.1,
+            "other_assets": 0,
+            "total_assets": 992745.73
+          },
+          "liabilities_equity": {
+            "accounts_payable": 153246.57,
+            "current_portion_long_term_debt": 30000.0,
+            "other_current_liabilities": 81202.43,
+            "long_term_debt": 270000.0,
+            "capital_stock": 1000,
+            "retained_earnings": 457296.73,
+            "total_liabilities_equity": 992745.73
+          }
+        }
+      }
+    },
+    "schedule_k1_owner1": {
+      "form": "Schedule K-1 (Form 1120-S)",
+      "tax_year": 2023,
+      "corporation_name": "Green Thumb Landscaping Services",
+      "corporation_ein": "14-3284136",
+      "shareholder": {
+        "name": "Robert Johnson",
+        "ssn": "828-93-5039",
+        "ownership_percentage": 75.0
+      },
+      "shareholder_share_of_income": {
+        "ordinary_business_income": 115222.11,
+        "net_rental_real_estate_income": 0,
+        "other_net_rental_income": 0,
+        "interest_income": 1240.19,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0
+      },
+      "shareholder_share_of_deductions": {
+        "section_179_deduction": 0,
+        "charitable_contributions": 0,
+        "investment_interest": 0
+      },
+      "shareholder_capital_account": {
+        "beginning_capital": 265850.29,
+        "capital_contributed": 0,
+        "current_year_income": 115222.11,
+        "withdrawals_distributions": 53745.35,
+        "ending_capital": 342972.55
+      }
+    },
+    "schedule_k1_owner2": {
+      "form": "Schedule K-1 (Form 1120-S)",
+      "tax_year": 2023,
+      "corporation_name": "Green Thumb Landscaping Services",
+      "corporation_ein": "14-3284136",
+      "shareholder": {
+        "name": "Lisa Johnson",
+        "ssn": "774-87-2943",
+        "ownership_percentage": 25.0
+      },
+      "shareholder_share_of_income": {
+        "ordinary_business_income": 38407.37,
+        "net_rental_real_estate_income": 0,
+        "other_net_rental_income": 0,
+        "interest_income": 413.4,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0
+      },
+      "shareholder_share_of_deductions": {
+        "section_179_deduction": 0,
+        "charitable_contributions": 0,
+        "investment_interest": 0
+      },
+      "shareholder_capital_account": {
+        "beginning_capital": 88616.76,
+        "capital_contributed": 0,
+        "current_year_income": 38407.37,
+        "withdrawals_distributions": 12821.43,
+        "ending_capital": 114324.18
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+
+================================================================================
+                        SCHEDULE C
+                (Form 1040)
+         Profit or Loss From Business
+         (Sole Proprietorship)
+================================================================================
+
+                          Tax Year 2023
+
+Department of the Treasury
+Internal Revenue Service (99)
+
+Name of proprietor: Michael Thompson
+Social Security Number: 130-95-7079
+
+A.  Principal business or profession: Auto Body Repair
+B.  Business name: AutoCare Collision Center
+C.  Business address: OH
+D.  Employer ID number (EIN): 59-9839976
+E.  Business code: 7532
+F.  Accounting method: Cash
+G.  Did you "materially participate" in the operation of this business? Yes [X] No [ ]
+
+================================================================================
+                            PART I - INCOME
+================================================================================
+
+1.  Gross receipts or sales                            $2,279,728.01
+2.  Returns and allowances                             $0.00
+3.  Subtract line 2 from line 1                        $2,279,728.01
+4.  Cost of goods sold (from Part III)                 $718,137.27
+                                                       ─────────────────
+5.  Gross profit (subtract line 4 from line 3)         $1,561,590.74
+                                                       ─────────────────
+6.  Other income                                       $0.00
+                                                       ─────────────────
+7.  GROSS INCOME (add lines 5 and 6)                   $1,561,590.74
+                                                       =================
+
+================================================================================
+                        PART II - EXPENSES
+================================================================================
+
+8.  Advertising                                        $66,144.67
+9.  Car and truck expenses                             $0.00
+10. Commissions and fees                               $0.00
+11. Contract labor                                     $198,996.74
+12. Depletion                                          $0.00
+13. Depreciation                                       $65,582.26
+14. Employee benefit programs                          $33,166.12
+15. Insurance (other than health)                      $85,406.92
+16. Interest:
+    a. Mortgage (paid to banks, etc.)                  $0.00
+    b. Other                                           $52,234.75
+17. Legal and professional services                    $27,455.20
+18. Office expense                                     $51,137.49
+19. Pension and profit-sharing plans                   $0.00
+20. Rent or lease:
+    a. Vehicles, machinery, equipment                  $0.00
+    b. Other business property                         $323,736.49
+21. Repairs and maintenance                            $40,915.97
+22. Supplies                                           $25,568.74
+23. Taxes and licenses                                 $29,344.90
+24. Travel and meals:
+    a. Travel                                          $27,048.65
+    b. Deductible meals                                $27,549.92
+25. Utilities                                          $92,388.69
+26. Wages (less employment credits)                    $431,159.61
+27. Other expenses                                     $130,071.24
+
+                                                       ─────────────────
+28. Total expenses (add lines 8 through 27)            $2,236,843.46
+                                                       =================
+
+================================================================================
+                            NET PROFIT OR LOSS
+================================================================================
+
+29. Tentative profit or (loss) (line 7 minus 28)       $42,884.55
+
+30. Expenses for business use of your home             $0.00
+
+31. NET PROFIT OR (LOSS)                               $42,884.55
+    (subtract line 30 from line 29)                    =================
+
+    If a profit, enter on Form 1040, line 8, and also on Schedule SE, line 2.
+    If a loss, you must go to line 32.
+
+================================================================================
+
+For Paperwork Reduction Act Notice, see your tax return instructions.
+Cat. No. 11334P                                        Schedule C (Form 1040)
+
+================================================================================

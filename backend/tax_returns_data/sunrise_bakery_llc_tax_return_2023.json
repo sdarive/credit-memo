@@ -1,0 +1,62 @@
+{
+  "business_info": {
+    "Business Name": "Sunrise Bakery LLC",
+    "EIN": "48-3865685",
+    "Entity Type": "LLC",
+    "Industry": "Retail Bakery",
+    "SIC Code": "5461",
+    "Website": "www.sunrisebakeryco.com",
+    "State": "CA",
+    "Formation Year": "2014",
+    "Years in Business": "10",
+    "Loan Amount": "$250,000",
+    "Creditworthiness": "EXCELLENT",
+    "Owner 1 Name": "Maria Rodriguez",
+    "Owner 1 SSN": "174-14-2873",
+    "Owner 1 Ownership %": "60%",
+    "Owner 1 Phone": "555-234-5678",
+    "Owner 1 Email": "maria@sunrisebakery.com",
+    "Owner 2 Name": "Carlos Martinez",
+    "Owner 2 SSN": "250-80-9732",
+    "Owner 2 Ownership %": "40%",
+    "Owner 2 Phone": "555-234-5679",
+    "Owner 2 Email": "carlos@sunrisebakery.com",
+    "Folder Name": "sunrise_bakery_llc",
+    "Document Count": "16"
+  },
+  "tax_year": 2023,
+  "annual_revenue": 1690136.4,
+  "forms": {
+    "form_1065": {
+      "form": "1065",
+      "tax_year": 2023,
+      "partnership_name": "Sunrise Bakery LLC",
+      "ein": "48-3865685",
+      "business_code": "5461",
+      "date_business_started": "2014-01-01",
+      "gross_receipts": 1690136.4,
+      "returns_allowances": 0,
+      "cost_of_goods_sold": 688022.83,
+      "gross_profit": 1002113.57,
+      "other_income": 0,
+      "total_income": 1002113.57,
+      "salaries_wages": 554500.57,
+      "guaranteed_payments": 221800.23,
+      "repairs_maintenance": 48813.98,
+      "bad_debts": 6460.97,
+      "rent": 135735.42,
+      "taxes_licenses": 17142.54,
+      "interest": 63266.0,
+      "depreciation": 63339.04,
+      "advertising": 49686.07,
+      "other_deductions": 88637.08,
+      "total_deductions": 1226320.36,
+      "ordinary_income": -224206.79,
+      "schedule_k": {
+        "ordinary_income": -224206.79,
+        "guaranteed_payments": 221800.23,
+        "interest_income": 1805.09
+      }
+    }
+  }
+}

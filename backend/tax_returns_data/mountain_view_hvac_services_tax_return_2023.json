@@ -1,0 +1,149 @@
+{
+  "business_info": {
+    "Business Name": "Mountain View HVAC Services",
+    "EIN": "47-8992746",
+    "Entity Type": "S-Corp",
+    "Industry": "HVAC Services",
+    "SIC Code": "1711",
+    "Website": "www.mountainviewhvac.com",
+    "State": "UT",
+    "Formation Year": "2021",
+    "Years in Business": "3",
+    "Loan Amount": "$320,000",
+    "Creditworthiness": "GOOD",
+    "Owner 1 Name": "William Brown",
+    "Owner 1 SSN": "737-35-5285",
+    "Owner 1 Ownership %": "100%",
+    "Owner 1 Phone": "555-678-9014",
+    "Owner 1 Email": "william@mountainviewhvac.com",
+    "Owner 2 Name": "",
+    "Owner 2 SSN": "",
+    "Owner 2 Ownership %": "",
+    "Owner 2 Phone": "",
+    "Owner 2 Email": "",
+    "Folder Name": "mountain_view_hvac_services",
+    "Document Count": "12"
+  },
+  "tax_year": 2023,
+  "annual_revenue": 1590094.2,
+  "forms": {
+    "form_1120s": {
+      "form": "1120-S",
+      "tax_year": 2023,
+      "corporation_name": "Mountain View HVAC Services",
+      "ein": "47-8992746",
+      "business_code": "1711",
+      "date_incorporated": "2021-01-01",
+      "state_of_incorporation": "UT",
+      "gross_receipts": 1590094.2,
+      "returns_allowances": 0,
+      "cost_of_goods_sold": 554145.62,
+      "gross_profit": 1035948.58,
+      "net_gain_loss": 0,
+      "other_income": 0,
+      "total_income": 1035948.58,
+      "compensation_officers": 127883.28,
+      "salaries_wages": 298394.33,
+      "repairs_maintenance": 32370.17,
+      "bad_debts": 5594.76,
+      "rents": 154547.3,
+      "taxes_licenses": 27412.94,
+      "interest": 14624.34,
+      "depreciation": 60539.78,
+      "advertising": 72105.24,
+      "pension_plans": 16914.56,
+      "employee_benefits": 26771.43,
+      "other_deductions": 76971.6,
+      "total_deductions": 904521.88,
+      "ordinary_business_income": 131426.7,
+      "schedule_k": {
+        "ordinary_income": 131426.7,
+        "rental_real_estate_income": 0,
+        "other_rental_income": 0,
+        "interest_income": 1812.99,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0,
+        "other_income": 0
+      },
+      "balance_sheet": {
+        "beginning_of_year": {
+          "assets": {
+            "cash": 111153.55,
+            "accounts_receivable": 149131.76,
+            "inventory": 54760.51,
+            "other_current_assets": 50038.57,
+            "fixed_assets": 616854.76,
+            "accumulated_depreciation": 133940.32,
+            "other_assets": 0,
+            "total_assets": 759525.28
+          },
+          "liabilities_equity": {
+            "accounts_payable": 132252.11,
+            "current_portion_long_term_debt": 32000.0,
+            "other_current_liabilities": 42517.23,
+            "long_term_debt": 316800.0,
+            "capital_stock": 1000,
+            "retained_earnings": 234955.95,
+            "total_liabilities_equity": 759525.28
+          }
+        },
+        "end_of_year": {
+          "assets": {
+            "cash": 123503.94,
+            "accounts_receivable": 165701.96,
+            "inventory": 60845.01,
+            "other_current_assets": 55598.41,
+            "fixed_assets": 616854.76,
+            "accumulated_depreciation": 178587.1,
+            "other_assets": 0,
+            "total_assets": 843916.98
+          },
+          "liabilities_equity": {
+            "accounts_payable": 146946.79,
+            "current_portion_long_term_debt": 32000.0,
+            "other_current_liabilities": 47241.37,
+            "long_term_debt": 288000.0,
+            "capital_stock": 1000,
+            "retained_earnings": 328728.83,
+            "total_liabilities_equity": 843916.98
+          }
+        }
+      }
+    },
+    "schedule_k1_owner1": {
+      "form": "Schedule K-1 (Form 1120-S)",
+      "tax_year": 2023,
+      "corporation_name": "Mountain View HVAC Services",
+      "corporation_ein": "47-8992746",
+      "shareholder": {
+        "name": "William Brown",
+        "ssn": "737-35-5285",
+        "ownership_percentage": 100.0
+      },
+      "shareholder_share_of_income": {
+        "ordinary_business_income": 131426.7,
+        "net_rental_real_estate_income": 0,
+        "other_net_rental_income": 0,
+        "interest_income": 1812.99,
+        "dividends": 0,
+        "royalties": 0,
+        "net_short_term_capital_gain": 0,
+        "net_long_term_capital_gain": 0
+      },
+      "shareholder_share_of_deductions": {
+        "section_179_deduction": 0,
+        "charitable_contributions": 0,
+        "investment_interest": 0
+      },
+      "shareholder_capital_account": {
+        "beginning_capital": 234955.95,
+        "capital_contributed": 0,
+        "current_year_income": 131426.7,
+        "withdrawals_distributions": 74977.23,
+        "ending_capital": 328728.83
+      }
+    }
+  }
+}
